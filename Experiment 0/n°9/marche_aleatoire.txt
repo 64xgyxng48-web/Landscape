@@ -1,0 +1,5728 @@
+================================================================================
+MARCHE ALÉATOIRE COMPLETE À PARTIR DU BENZÈNE
+Date: 2025-11-03 14:07:08.101117
+Nombre d'étapes: 300
+================================================================================
+
+ÉTAPE 0 - COMPOSÉ DE DÉPART
+--------------------------------------------------------------------------------
+Substituants: ['H', 'H', 'H', 'H', 'H', 'H']
+Positions: 1=H, 2=H, 3=H, 4=H, 5=H, 6=H
+
+Énergies:
+  HOMO: -0.26309 Ha
+  LUMO: 0.00894 Ha
+  GAP:  7.40232 eV
+
+Matrice des distances entre substituants:
+        H     H     H     H     H     H
+H       0     1     2     3     2     1
+H       1     0     1     2     3     2
+H       2     1     0     1     2     3
+H       3     2     1     0     1     2
+H       2     3     2     1     0     1
+H       1     2     3     2     1     0
+
+ÉTAPE 1
+--------------------------------------------------------------------------------
+Substituants: ['H', 'CN', 'CHO', 'OH', 'CN', 'CN']
+Positions: 1=H, 2=CN, 3=CHO, 4=OH, 5=CN, 6=CN
+
+Énergies:
+  HOMO: -0.17569 Ha
+  LUMO: 0.04048 Ha
+  GAP:  5.88229 eV
+
+Matrice des distances entre substituants:
+        CHO    CN    CN    CN     H    OH
+CHO       0     1     2     3     2     1
+ CN       1     0     3     2     1     2
+ CN       2     3     0     1     2     1
+ CN       3     2     1     0     1     2
+  H       2     1     2     1     0     3
+ OH       1     2     1     2     3     0
+
+ÉTAPE 2
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CH3', 'NO2', 'NO2', 'CH3', 'NO2']
+Positions: 1=F, 2=CH3, 3=NO2, 4=NO2, 5=CH3, 6=NO2
+
+Énergies:
+  HOMO: -0.24599 Ha
+  LUMO: -0.10185 Ha
+  GAP:  3.92225 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3     F   NO2   NO2   NO2
+CH3       0     3     1     1     2     2
+CH3       3     0     2     2     1     1
+  F       1     2     0     2     3     1
+NO2       1     2     2     0     1     3
+NO2       2     1     3     1     0     2
+NO2       2     1     1     3     2     0
+
+ÉTAPE 3
+--------------------------------------------------------------------------------
+Substituants: ['H', 'OH', 'NH2', 'CHCH2', 'CHCH2', 'CH3']
+Positions: 1=H, 2=OH, 3=NH2, 4=CHCH2, 5=CHCH2, 6=CH3
+
+Énergies:
+  HOMO: -0.16552 Ha
+  LUMO: 0.04737 Ha
+  GAP:  5.79303 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2 CHCH2     H   NH2    OH
+  CH3       0     2     1     1     3     2
+CHCH2       2     0     1     3     1     2
+CHCH2       1     1     0     2     2     3
+    H       1     3     2     0     2     1
+  NH2       3     1     2     2     0     1
+   OH       2     2     3     1     1     0
+
+ÉTAPE 4
+--------------------------------------------------------------------------------
+Substituants: ['F', 'NO2', 'CHO', 'H', 'NO2', 'H']
+Positions: 1=F, 2=NO2, 3=CHO, 4=H, 5=NO2, 6=H
+
+Énergies:
+  HOMO: -0.22786 Ha
+  LUMO: -0.02738 Ha
+  GAP:  5.45534 eV
+
+Matrice des distances entre substituants:
+        CHO     F     H     H   NO2   NO2
+CHO       0     2     1     3     1     2
+  F       2     0     3     1     1     2
+  H       1     3     0     2     2     1
+  H       3     1     2     0     2     1
+NO2       1     1     2     2     0     3
+NO2       2     2     1     1     3     0
+
+ÉTAPE 5
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'H', 'CHCH2', 'F', 'NH2', 'F']
+Positions: 1=CN, 2=H, 3=CHCH2, 4=F, 5=NH2, 6=F
+
+Énergies:
+  HOMO: -0.24214 Ha
+  LUMO: -0.07445 Ha
+  GAP:  4.56308 eV
+
+Matrice des distances entre substituants:
+        CHCH2    CN     F     F     H   NH2
+CHCH2       0     2     1     3     1     2
+   CN       2     0     3     1     1     2
+    F       1     3     0     2     2     1
+    F       3     1     2     0     2     1
+    H       1     1     2     2     0     3
+  NH2       2     2     1     1     3     0
+
+ÉTAPE 6
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CHO', 'CHO', 'OH', 'CHCH2', 'NH2']
+Positions: 1=CHO, 2=CHO, 3=CHO, 4=OH, 5=CHCH2, 6=NH2
+
+Énergies:
+  HOMO: -0.26871 Ha
+  LUMO: -0.11803 Ha
+  GAP:  4.10021 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO   CHO   CHO   NH2    OH
+CHCH2       0     2     3     2     1     1
+  CHO       2     0     1     2     1     3
+  CHO       3     1     0     1     2     2
+  CHO       2     2     1     0     3     1
+  NH2       1     1     2     3     0     2
+   OH       1     3     2     1     2     0
+
+ÉTAPE 7
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CHO', 'H', 'CH3', 'CHCH2', 'NO2']
+Positions: 1=F, 2=CHO, 3=H, 4=CH3, 5=CHCH2, 6=NO2
+
+Énergies:
+  HOMO: -0.24819 Ha
+  LUMO: -0.05495 Ha
+  GAP:  5.25833 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO     F     H   NO2
+  CH3       0     1     2     3     1     2
+CHCH2       1     0     3     2     2     1
+  CHO       2     3     0     1     1     2
+    F       3     2     1     0     2     1
+    H       1     2     1     2     0     3
+  NO2       2     1     2     1     3     0
+
+ÉTAPE 8
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'NO2', 'CH3', 'NO2', 'CHCH2', 'CHO']
+Positions: 1=CN, 2=NO2, 3=CH3, 4=NO2, 5=CHCH2, 6=CHO
+
+Énergies:
+  HOMO: -0.21101 Ha
+  LUMO: -0.04725 Ha
+  GAP:  4.45614 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO    CN   NO2   NO2
+  CH3       0     2     3     2     1     1
+CHCH2       2     0     1     2     3     1
+  CHO       3     1     0     1     2     2
+   CN       2     2     1     0     1     3
+  NO2       1     3     2     1     0     2
+  NO2       1     1     2     3     2     0
+
+ÉTAPE 9
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'CN', 'OH', 'NO2', 'CHO', 'CHCH2']
+Positions: 1=OH, 2=CN, 3=OH, 4=NO2, 5=CHO, 6=CHCH2
+
+Énergies:
+  HOMO: -0.18342 Ha
+  LUMO: 0.03824 Ha
+  GAP:  6.03168 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO    CN   NO2    OH    OH
+CHCH2       0     1     2     2     1     3
+  CHO       1     0     3     1     2     2
+   CN       2     3     0     2     1     1
+  NO2       2     1     2     0     3     1
+   OH       1     2     1     3     0     2
+   OH       3     2     1     1     2     0
+
+ÉTAPE 10
+--------------------------------------------------------------------------------
+Substituants: ['H', 'NO2', 'CHCH2', 'F', 'CN', 'CH3']
+Positions: 1=H, 2=NO2, 3=CHCH2, 4=F, 5=CN, 6=CH3
+
+Énergies:
+  HOMO: -0.26498 Ha
+  LUMO: -0.12938 Ha
+  GAP:  3.68987 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2    CN     F     H   NO2
+  CH3       0     3     1     2     1     2
+CHCH2       3     0     2     1     2     1
+   CN       1     2     0     1     2     3
+    F       2     1     1     0     3     2
+    H       1     2     2     3     0     1
+  NO2       2     1     3     2     1     0
+
+ÉTAPE 11
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'CHCH2', 'CHO', 'CN', 'NH2', 'CHO']
+Positions: 1=NO2, 2=CHCH2, 3=CHO, 4=CN, 5=NH2, 6=CHO
+
+Énergies:
+  HOMO: -0.28076 Ha
+  LUMO: -0.15021 Ha
+  GAP:  3.55245 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO   CHO    CN   NH2   NO2
+CHCH2       0     1     2     2     3     1
+  CHO       1     0     3     1     2     2
+  CHO       2     3     0     2     1     1
+   CN       2     1     2     0     1     3
+  NH2       3     2     1     1     0     2
+  NO2       1     2     1     3     2     0
+
+ÉTAPE 12
+--------------------------------------------------------------------------------
+Substituants: ['H', 'CH3', 'H', 'NH2', 'NO2', 'CN']
+Positions: 1=H, 2=CH3, 3=H, 4=NH2, 5=NO2, 6=CN
+
+Énergies:
+  HOMO: -0.28883 Ha
+  LUMO: -0.11456 Ha
+  GAP:  4.74213 eV
+
+Matrice des distances entre substituants:
+        CH3    CN     H     H   NH2   NO2
+CH3       0     2     1     1     2     3
+ CN       2     0     1     3     2     1
+  H       1     1     0     2     3     2
+  H       1     3     2     0     1     2
+NH2       2     2     3     1     0     1
+NO2       3     1     2     2     1     0
+
+ÉTAPE 13
+--------------------------------------------------------------------------------
+Substituants: ['H', 'NO2', 'CHO', 'NH2', 'F', 'CH3']
+Positions: 1=H, 2=NO2, 3=CHO, 4=NH2, 5=F, 6=CH3
+
+Énergies:
+  HOMO: -0.23957 Ha
+  LUMO: -0.08988 Ha
+  GAP:  4.07327 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO     F     H   NH2   NO2
+CH3       0     3     1     1     2     2
+CHO       3     0     2     2     1     1
+  F       1     2     0     2     1     3
+  H       1     2     2     0     3     1
+NH2       2     1     1     3     0     2
+NO2       2     1     3     1     2     0
+
+ÉTAPE 14
+--------------------------------------------------------------------------------
+Substituants: ['H', 'H', 'H', 'OH', 'OH', 'CH3']
+Positions: 1=H, 2=H, 3=H, 4=OH, 5=OH, 6=CH3
+
+Énergies:
+  HOMO: -0.26648 Ha
+  LUMO: -0.06542 Ha
+  GAP:  5.47112 eV
+
+Matrice des distances entre substituants:
+        CH3     H     H     H    OH    OH
+CH3       0     1     2     3     2     1
+  H       1     0     1     2     3     2
+  H       2     1     0     1     2     3
+  H       3     2     1     0     1     2
+ OH       2     3     2     1     0     1
+ OH       1     2     3     2     1     0
+
+ÉTAPE 15
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'CH3', 'NH2', 'OH', 'F', 'CN']
+Positions: 1=NH2, 2=CH3, 3=NH2, 4=OH, 5=F, 6=CN
+
+Énergies:
+  HOMO: -0.21793 Ha
+  LUMO: -0.10633 Ha
+  GAP:  3.03679 eV
+
+Matrice des distances entre substituants:
+        CH3    CN     F   NH2   NH2    OH
+CH3       0     2     3     1     1     2
+ CN       2     0     1     1     3     2
+  F       3     1     0     2     2     1
+NH2       1     1     2     0     2     3
+NH2       1     3     2     2     0     1
+ OH       2     2     1     3     1     0
+
+ÉTAPE 16
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'CHCH2', 'F', 'NH2', 'CHO', 'NO2']
+Positions: 1=CHCH2, 2=CHCH2, 3=F, 4=NH2, 5=CHO, 6=NO2
+
+Énergies:
+  HOMO: -0.26796 Ha
+  LUMO: -0.10144 Ha
+  GAP:  4.53124 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   CHO     F   NH2   NO2
+CHCH2       0     1     2     2     3     1
+CHCH2       1     0     3     1     2     2
+  CHO       2     3     0     2     1     1
+    F       2     1     2     0     1     3
+  NH2       3     2     1     1     0     2
+  NO2       1     2     1     3     2     0
+
+ÉTAPE 17
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'CHCH2', 'CH3', 'CN', 'CHO', 'NO2']
+Positions: 1=CH3, 2=CHCH2, 3=CH3, 4=CN, 5=CHO, 6=NO2
+
+Énergies:
+  HOMO: -0.23948 Ha
+  LUMO: -0.03299 Ha
+  GAP:  5.61888 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2   CHO    CN   NO2
+  CH3       0     2     1     2     3     1
+  CH3       2     0     1     2     1     3
+CHCH2       1     1     0     3     2     2
+  CHO       2     2     3     0     1     1
+   CN       3     1     2     1     0     2
+  NO2       1     3     2     1     2     0
+
+ÉTAPE 18
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'H', 'OH', 'CHCH2', 'CH3', 'H']
+Positions: 1=CHCH2, 2=H, 3=OH, 4=CHCH2, 5=CH3, 6=H
+
+Énergies:
+  HOMO: -0.24568 Ha
+  LUMO: -0.08663 Ha
+  GAP:  4.32797 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2 CHCH2     H     H    OH
+  CH3       0     2     1     3     1     2
+CHCH2       2     0     3     1     1     2
+CHCH2       1     3     0     2     2     1
+    H       3     1     2     0     2     1
+    H       1     1     2     2     0     3
+   OH       2     2     1     1     3     0
+
+ÉTAPE 19
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'CHO', 'H', 'CH3', 'H', 'OH']
+Positions: 1=CHCH2, 2=CHO, 3=H, 4=CH3, 5=H, 6=OH
+
+Énergies:
+  HOMO: -0.22201 Ha
+  LUMO: -0.03349 Ha
+  GAP:  5.12989 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO     H     H    OH
+  CH3       0     3     2     1     1     2
+CHCH2       3     0     1     2     2     1
+  CHO       2     1     0     1     3     2
+    H       1     2     1     0     2     3
+    H       1     2     3     2     0     1
+   OH       2     1     2     3     1     0
+
+ÉTAPE 20
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'OH', 'CHO', 'OH', 'CN', 'CHCH2']
+Positions: 1=OH, 2=OH, 3=CHO, 4=OH, 5=CN, 6=CHCH2
+
+Énergies:
+  HOMO: -0.23713 Ha
+  LUMO: -0.05990 Ha
+  GAP:  4.82268 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO    CN    OH    OH    OH
+CHCH2       0     3     1     1     2     2
+  CHO       3     0     2     2     1     1
+   CN       1     2     0     2     3     1
+   OH       1     2     2     0     1     3
+   OH       2     1     3     1     0     2
+   OH       2     1     1     3     2     0
+
+ÉTAPE 21
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'NH2', 'NO2', 'CHO', 'H', 'F']
+Positions: 1=NO2, 2=NH2, 3=NO2, 4=CHO, 5=H, 6=F
+
+Énergies:
+  HOMO: -0.28629 Ha
+  LUMO: -0.12148 Ha
+  GAP:  4.48471 eV
+
+Matrice des distances entre substituants:
+        CHO     F     H   NH2   NO2   NO2
+CHO       0     2     1     2     3     1
+  F       2     0     1     2     1     3
+  H       1     1     0     3     2     2
+NH2       2     2     3     0     1     1
+NO2       3     1     2     1     0     2
+NO2       1     3     2     1     2     0
+
+ÉTAPE 22
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'CN', 'CHCH2', 'CHCH2', 'CHCH2', 'H']
+Positions: 1=NH2, 2=CN, 3=CHCH2, 4=CHCH2, 5=CHCH2, 6=H
+
+Énergies:
+  HOMO: -0.23816 Ha
+  LUMO: -0.02894 Ha
+  GAP:  5.69317 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2 CHCH2    CN     H   NH2
+CHCH2       0     1     2     1     3     2
+CHCH2       1     0     1     2     2     3
+CHCH2       2     1     0     3     1     2
+   CN       1     2     3     0     2     1
+    H       3     2     1     2     0     1
+  NH2       2     3     2     1     1     0
+
+ÉTAPE 23
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'F', 'CHO', 'F', 'CHCH2', 'F']
+Positions: 1=CHO, 2=F, 3=CHO, 4=F, 5=CHCH2, 6=F
+
+Énergies:
+  HOMO: -0.25688 Ha
+  LUMO: -0.09458 Ha
+  GAP:  4.41641 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO   CHO     F     F     F
+CHCH2       0     2     2     3     1     1
+  CHO       2     0     2     1     3     1
+  CHO       2     2     0     1     1     3
+    F       3     1     1     0     2     2
+    F       1     3     1     2     0     2
+    F       1     1     3     2     2     0
+
+ÉTAPE 24
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'CN', 'F', 'CN', 'CH3', 'NO2']
+Positions: 1=CH3, 2=CN, 3=F, 4=CN, 5=CH3, 6=NO2
+
+Énergies:
+  HOMO: -0.24652 Ha
+  LUMO: -0.09654 Ha
+  GAP:  4.08117 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3    CN    CN     F   NO2
+CH3       0     2     1     3     2     1
+CH3       2     0     3     1     2     1
+ CN       1     3     0     2     1     2
+ CN       3     1     2     0     1     2
+  F       2     2     1     1     0     3
+NO2       1     1     2     2     3     0
+
+ÉTAPE 25
+--------------------------------------------------------------------------------
+Substituants: ['H', 'F', 'H', 'CN', 'CN', 'CH3']
+Positions: 1=H, 2=F, 3=H, 4=CN, 5=CN, 6=CH3
+
+Énergies:
+  HOMO: -0.26916 Ha
+  LUMO: -0.10479 Ha
+  GAP:  4.47274 eV
+
+Matrice des distances entre substituants:
+        CH3    CN    CN     F     H     H
+CH3       0     2     1     2     1     3
+ CN       2     0     1     2     3     1
+ CN       1     1     0     3     2     2
+  F       2     2     3     0     1     1
+  H       1     3     2     1     0     2
+  H       3     1     2     1     2     0
+
+ÉTAPE 26
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'NH2', 'F', 'OH', 'NO2', 'CHO']
+Positions: 1=CN, 2=NH2, 3=F, 4=OH, 5=NO2, 6=CHO
+
+Énergies:
+  HOMO: -0.19979 Ha
+  LUMO: -0.08093 Ha
+  GAP:  3.23435 eV
+
+Matrice des distances entre substituants:
+        CHO    CN     F   NH2   NO2    OH
+CHO       0     1     3     2     1     2
+ CN       1     0     2     1     2     3
+  F       3     2     0     1     2     1
+NH2       2     1     1     0     3     2
+NO2       1     2     2     3     0     1
+ OH       2     3     1     2     1     0
+
+ÉTAPE 27
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'NO2', 'OH', 'CN', 'OH', 'CN']
+Positions: 1=CHCH2, 2=NO2, 3=OH, 4=CN, 5=OH, 6=CN
+
+Énergies:
+  HOMO: -0.20893 Ha
+  LUMO: -0.07575 Ha
+  GAP:  3.62401 eV
+
+Matrice des distances entre substituants:
+        CHCH2    CN    CN   NO2    OH    OH
+CHCH2       0     3     1     1     2     2
+   CN       3     0     2     2     1     1
+   CN       1     2     0     2     3     1
+  NO2       1     2     2     0     1     3
+   OH       2     1     3     1     0     2
+   OH       2     1     1     3     2     0
+
+ÉTAPE 28
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'CH3', 'NO2', 'NO2', 'F', 'CH3']
+Positions: 1=OH, 2=CH3, 3=NO2, 4=NO2, 5=F, 6=CH3
+
+Énergies:
+  HOMO: -0.27535 Ha
+  LUMO: -0.10829 Ha
+  GAP:  4.54594 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3     F   NO2   NO2    OH
+CH3       0     2     3     1     2     1
+CH3       2     0     1     3     2     1
+  F       3     1     0     2     1     2
+NO2       1     3     2     0     1     2
+NO2       2     2     1     1     0     3
+ OH       1     1     2     2     3     0
+
+ÉTAPE 29
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'OH', 'F', 'CHO', 'CN', 'F']
+Positions: 1=CN, 2=OH, 3=F, 4=CHO, 5=CN, 6=F
+
+Énergies:
+  HOMO: -0.28701 Ha
+  LUMO: -0.14182 Ha
+  GAP:  3.95082 eV
+
+Matrice des distances entre substituants:
+        CHO    CN    CN     F     F    OH
+CHO       0     3     1     1     2     2
+ CN       3     0     2     2     1     1
+ CN       1     2     0     2     1     3
+  F       1     2     2     0     3     1
+  F       2     1     1     3     0     2
+ OH       2     1     3     1     2     0
+
+ÉTAPE 30
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'H', 'CN', 'OH', 'F', 'CN']
+Positions: 1=CH3, 2=H, 3=CN, 4=OH, 5=F, 6=CN
+
+Énergies:
+  HOMO: -0.20416 Ha
+  LUMO: 0.00662 Ha
+  GAP:  5.73562 eV
+
+Matrice des distances entre substituants:
+        CH3    CN    CN     F     H    OH
+CH3       0     2     1     2     1     3
+ CN       2     0     3     2     1     1
+ CN       1     3     0     1     2     2
+  F       2     2     1     0     3     1
+  H       1     1     2     3     0     2
+ OH       3     1     2     1     2     0
+
+ÉTAPE 31
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'NH2', 'NH2', 'H', 'NO2', 'H']
+Positions: 1=CHCH2, 2=NH2, 3=NH2, 4=H, 5=NO2, 6=H
+
+Énergies:
+  HOMO: -0.21750 Ha
+  LUMO: -0.07662 Ha
+  GAP:  3.83354 eV
+
+Matrice des distances entre substituants:
+        CHCH2     H     H   NH2   NH2   NO2
+CHCH2       0     3     1     1     2     2
+    H       3     0     2     2     1     1
+    H       1     2     0     2     3     1
+  NH2       1     2     2     0     1     3
+  NH2       2     1     3     1     0     2
+  NO2       2     1     1     3     2     0
+
+ÉTAPE 32
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'NO2', 'H', 'CHCH2', 'CH3', 'F']
+Positions: 1=CHO, 2=NO2, 3=H, 4=CHCH2, 5=CH3, 6=F
+
+Énergies:
+  HOMO: -0.29073 Ha
+  LUMO: -0.11925 Ha
+  GAP:  4.66621 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO     F     H   NO2
+  CH3       0     1     2     1     2     3
+CHCH2       1     0     3     2     1     2
+  CHO       2     3     0     1     2     1
+    F       1     2     1     0     3     2
+    H       2     1     2     3     0     1
+  NO2       3     2     1     2     1     0
+
+ÉTAPE 33
+--------------------------------------------------------------------------------
+Substituants: ['F', 'H', 'CN', 'CHO', 'F', 'F']
+Positions: 1=F, 2=H, 3=CN, 4=CHO, 5=F, 6=F
+
+Énergies:
+  HOMO: -0.24310 Ha
+  LUMO: -0.11313 Ha
+  GAP:  3.53667 eV
+
+Matrice des distances entre substituants:
+        CHO    CN     F     F     F     H
+CHO       0     1     3     1     2     2
+ CN       1     0     2     2     3     1
+  F       3     2     0     2     1     1
+  F       1     2     2     0     1     3
+  F       2     3     1     1     0     2
+  H       2     1     1     3     2     0
+
+ÉTAPE 34
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'CHO', 'H', 'OH', 'OH', 'CN']
+Positions: 1=OH, 2=CHO, 3=H, 4=OH, 5=OH, 6=CN
+
+Énergies:
+  HOMO: -0.19467 Ha
+  LUMO: -0.01569 Ha
+  GAP:  4.87030 eV
+
+Matrice des distances entre substituants:
+        CHO    CN     H    OH    OH    OH
+CHO       0     2     1     1     2     3
+ CN       2     0     3     1     2     1
+  H       1     3     0     2     1     2
+ OH       1     1     2     0     3     2
+ OH       2     2     1     3     0     1
+ OH       3     1     2     2     1     0
+
+ÉTAPE 35
+--------------------------------------------------------------------------------
+Substituants: ['H', 'F', 'H', 'CHCH2', 'H', 'NO2']
+Positions: 1=H, 2=F, 3=H, 4=CHCH2, 5=H, 6=NO2
+
+Énergies:
+  HOMO: -0.24172 Ha
+  LUMO: -0.12061 Ha
+  GAP:  3.29557 eV
+
+Matrice des distances entre substituants:
+        CHCH2     F     H     H     H   NO2
+CHCH2       0     2     3     1     1     2
+    F       2     0     1     1     3     2
+    H       3     1     0     2     2     1
+    H       1     1     2     0     2     3
+    H       1     3     2     2     0     1
+  NO2       2     2     1     3     1     0
+
+ÉTAPE 36
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'NH2', 'F', 'CHCH2', 'CHO', 'CHCH2']
+Positions: 1=CN, 2=NH2, 3=F, 4=CHCH2, 5=CHO, 6=CHCH2
+
+Énergies:
+  HOMO: -0.18921 Ha
+  LUMO: -0.07377 Ha
+  GAP:  3.14128 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   CHO    CN     F   NH2
+CHCH2       0     2     1     3     1     2
+CHCH2       2     0     1     1     3     2
+  CHO       1     1     0     2     2     3
+   CN       3     1     2     0     2     1
+    F       1     3     2     2     0     1
+  NH2       2     2     3     1     1     0
+
+ÉTAPE 37
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'F', 'F', 'NH2', 'OH', 'F']
+Positions: 1=OH, 2=F, 3=F, 4=NH2, 5=OH, 6=F
+
+Énergies:
+  HOMO: -0.22145 Ha
+  LUMO: -0.01256 Ha
+  GAP:  5.68419 eV
+
+Matrice des distances entre substituants:
+          F     F     F   NH2    OH    OH
+  F       0     1     2     2     1     3
+  F       1     0     3     1     2     2
+  F       2     3     0     2     1     1
+NH2       2     1     2     0     3     1
+ OH       1     2     1     3     0     2
+ OH       3     2     1     1     2     0
+
+ÉTAPE 38
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CHO', 'H', 'F', 'NO2', 'CHCH2']
+Positions: 1=CHO, 2=CHO, 3=H, 4=F, 5=NO2, 6=CHCH2
+
+Énergies:
+  HOMO: -0.22517 Ha
+  LUMO: -0.07335 Ha
+  GAP:  4.13123 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO   CHO     F     H   NO2
+CHCH2       0     1     2     2     3     1
+  CHO       1     0     1     3     2     2
+  CHO       2     1     0     2     1     3
+    F       2     3     2     0     1     1
+    H       3     2     1     1     0     2
+  NO2       1     2     3     1     2     0
+
+ÉTAPE 39
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'NH2', 'F', 'CH3', 'CH3', 'NH2']
+Positions: 1=CHCH2, 2=NH2, 3=F, 4=CH3, 5=CH3, 6=NH2
+
+Énergies:
+  HOMO: -0.16853 Ha
+  LUMO: 0.03911 Ha
+  GAP:  5.65018 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2     F   NH2   NH2
+  CH3       0     1     3     1     2     2
+  CH3       1     0     2     2     3     1
+CHCH2       3     2     0     2     1     1
+    F       1     2     2     0     1     3
+  NH2       2     3     1     1     0     2
+  NH2       2     1     1     3     2     0
+
+ÉTAPE 40
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'OH', 'OH', 'CHCH2', 'NH2', 'OH']
+Positions: 1=CHCH2, 2=OH, 3=OH, 4=CHCH2, 5=NH2, 6=OH
+
+Énergies:
+  HOMO: -0.26578 Ha
+  LUMO: -0.11033 Ha
+  GAP:  4.23001 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   NH2    OH    OH    OH
+CHCH2       0     3     2     1     2     1
+CHCH2       3     0     1     2     1     2
+  NH2       2     1     0     3     2     1
+   OH       1     2     3     0     1     2
+   OH       2     1     2     1     0     3
+   OH       1     2     1     2     3     0
+
+ÉTAPE 41
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CHCH2', 'F', 'NO2', 'NO2', 'NH2']
+Positions: 1=CHO, 2=CHCH2, 3=F, 4=NO2, 5=NO2, 6=NH2
+
+Énergies:
+  HOMO: -0.24493 Ha
+  LUMO: -0.04106 Ha
+  GAP:  5.54759 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO     F   NH2   NO2   NO2
+CHCH2       0     1     1     2     2     3
+  CHO       1     0     2     1     3     2
+    F       1     2     0     3     1     2
+  NH2       2     1     3     0     2     1
+  NO2       2     3     1     2     0     1
+  NO2       3     2     2     1     1     0
+
+ÉTAPE 42
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'NO2', 'H', 'F', 'OH', 'CH3']
+Positions: 1=CHCH2, 2=NO2, 3=H, 4=F, 5=OH, 6=CH3
+
+Énergies:
+  HOMO: -0.24673 Ha
+  LUMO: -0.08770 Ha
+  GAP:  4.32743 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2     F     H   NO2    OH
+  CH3       0     1     2     3     2     1
+CHCH2       1     0     3     2     1     2
+    F       2     3     0     1     2     1
+    H       3     2     1     0     1     2
+  NO2       2     1     2     1     0     3
+   OH       1     2     1     2     3     0
+
+ÉTAPE 43
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CN', 'OH', 'NH2', 'CH3', 'CH3']
+Positions: 1=F, 2=CN, 3=OH, 4=NH2, 5=CH3, 6=CH3
+
+Énergies:
+  HOMO: -0.19451 Ha
+  LUMO: -0.07297 Ha
+  GAP:  3.30727 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3    CN     F   NH2    OH
+CH3       0     1     3     2     1     2
+CH3       1     0     2     1     2     3
+ CN       3     2     0     1     2     1
+  F       2     1     1     0     3     2
+NH2       1     2     2     3     0     1
+ OH       2     3     1     2     1     0
+
+ÉTAPE 44
+--------------------------------------------------------------------------------
+Substituants: ['H', 'NH2', 'F', 'NH2', 'NO2', 'OH']
+Positions: 1=H, 2=NH2, 3=F, 4=NH2, 5=NO2, 6=OH
+
+Énergies:
+  HOMO: -0.26359 Ha
+  LUMO: -0.06433 Ha
+  GAP:  5.42214 eV
+
+Matrice des distances entre substituants:
+          F     H   NH2   NH2   NO2    OH
+  F       0     2     1     1     2     3
+  H       2     0     1     3     2     1
+NH2       1     1     0     2     3     2
+NH2       1     3     2     0     1     2
+NO2       2     2     3     1     0     1
+ OH       3     1     2     2     1     0
+
+ÉTAPE 45
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'NO2', 'F', 'CHO', 'CHCH2', 'CN']
+Positions: 1=OH, 2=NO2, 3=F, 4=CHO, 5=CHCH2, 6=CN
+
+Énergies:
+  HOMO: -0.22935 Ha
+  LUMO: 0.00998 Ha
+  GAP:  6.51250 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO    CN     F   NO2    OH
+CHCH2       0     1     1     2     3     2
+  CHO       1     0     2     1     2     3
+   CN       1     2     0     3     2     1
+    F       2     1     3     0     1     2
+  NO2       3     2     2     1     0     1
+   OH       2     3     1     2     1     0
+
+ÉTAPE 46
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'NH2', 'CN', 'NH2', 'H', 'OH']
+Positions: 1=CHCH2, 2=NH2, 3=CN, 4=NH2, 5=H, 6=OH
+
+Énergies:
+  HOMO: -0.30306 Ha
+  LUMO: -0.16790 Ha
+  GAP:  3.67789 eV
+
+Matrice des distances entre substituants:
+        CHCH2    CN     H   NH2   NH2    OH
+CHCH2       0     2     2     1     3     1
+   CN       2     0     2     1     1     3
+    H       2     2     0     3     1     1
+  NH2       1     1     3     0     2     2
+  NH2       3     1     1     2     0     2
+   OH       1     3     1     2     2     0
+
+ÉTAPE 47
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'CHCH2', 'NH2', 'CHCH2', 'CN', 'H']
+Positions: 1=OH, 2=CHCH2, 3=NH2, 4=CHCH2, 5=CN, 6=H
+
+Énergies:
+  HOMO: -0.20618 Ha
+  LUMO: 0.02158 Ha
+  GAP:  6.19767 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2    CN     H   NH2    OH
+CHCH2       0     2     3     2     1     1
+CHCH2       2     0     1     2     1     3
+   CN       3     1     0     1     2     2
+    H       2     2     1     0     3     1
+  NH2       1     1     2     3     0     2
+   OH       1     3     2     1     2     0
+
+ÉTAPE 48
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'F', 'CH3', 'CH3', 'CH3', 'NH2']
+Positions: 1=NH2, 2=F, 3=CH3, 4=CH3, 5=CH3, 6=NH2
+
+Énergies:
+  HOMO: -0.22101 Ha
+  LUMO: -0.03885 Ha
+  GAP:  4.95683 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3   CH3     F   NH2   NH2
+CH3       0     1     2     1     2     3
+CH3       1     0     1     2     3     2
+CH3       2     1     0     3     2     1
+  F       1     2     3     0     1     2
+NH2       2     3     2     1     0     1
+NH2       3     2     1     2     1     0
+
+ÉTAPE 49
+--------------------------------------------------------------------------------
+Substituants: ['F', 'H', 'OH', 'OH', 'NO2', 'H']
+Positions: 1=F, 2=H, 3=OH, 4=OH, 5=NO2, 6=H
+
+Énergies:
+  HOMO: -0.21154 Ha
+  LUMO: -0.05742 Ha
+  GAP:  4.19382 eV
+
+Matrice des distances entre substituants:
+          F     H     H   NO2    OH    OH
+  F       0     1     1     2     2     3
+  H       1     0     2     3     1     2
+  H       1     2     0     1     3     2
+NO2       2     3     1     0     2     1
+ OH       2     1     3     2     0     1
+ OH       3     2     2     1     1     0
+
+ÉTAPE 50
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'CH3', 'OH', 'CHCH2', 'H', 'CHCH2']
+Positions: 1=CH3, 2=CH3, 3=OH, 4=CHCH2, 5=H, 6=CHCH2
+
+Énergies:
+  HOMO: -0.26077 Ha
+  LUMO: -0.09950 Ha
+  GAP:  4.38838 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2 CHCH2     H    OH
+  CH3       0     1     3     1     2     2
+  CH3       1     0     2     2     3     1
+CHCH2       3     2     0     2     1     1
+CHCH2       1     2     2     0     1     3
+    H       2     3     1     1     0     2
+   OH       2     1     1     3     2     0
+
+ÉTAPE 51
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'CHO', 'NO2', 'CHCH2', 'F', 'F']
+Positions: 1=OH, 2=CHO, 3=NO2, 4=CHCH2, 5=F, 6=F
+
+Énergies:
+  HOMO: -0.22366 Ha
+  LUMO: -0.00855 Ha
+  GAP:  5.85344 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO     F     F   NO2    OH
+CHCH2       0     2     1     2     1     3
+  CHO       2     0     3     2     1     1
+    F       1     3     0     1     2     2
+    F       2     2     1     0     3     1
+  NO2       1     1     2     3     0     2
+   OH       3     1     2     1     2     0
+
+ÉTAPE 52
+--------------------------------------------------------------------------------
+Substituants: ['H', 'CN', 'NH2', 'OH', 'OH', 'F']
+Positions: 1=H, 2=CN, 3=NH2, 4=OH, 5=OH, 6=F
+
+Énergies:
+  HOMO: -0.18171 Ha
+  LUMO: 0.01117 Ha
+  GAP:  5.24853 eV
+
+Matrice des distances entre substituants:
+         CN     F     H   NH2    OH    OH
+ CN       0     2     1     1     2     3
+  F       2     0     1     3     2     1
+  H       1     1     0     2     3     2
+NH2       1     3     2     0     1     2
+ OH       2     2     3     1     0     1
+ OH       3     1     2     2     1     0
+
+ÉTAPE 53
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'NH2', 'F', 'F', 'NH2', 'F']
+Positions: 1=CHCH2, 2=NH2, 3=F, 4=F, 5=NH2, 6=F
+
+Énergies:
+  HOMO: -0.21132 Ha
+  LUMO: -0.01000 Ha
+  GAP:  5.47820 eV
+
+Matrice des distances entre substituants:
+        CHCH2     F     F     F   NH2   NH2
+CHCH2       0     2     3     1     1     2
+    F       2     0     1     3     1     2
+    F       3     1     0     2     2     1
+    F       1     3     2     0     2     1
+  NH2       1     1     2     2     0     3
+  NH2       2     2     1     1     3     0
+
+ÉTAPE 54
+--------------------------------------------------------------------------------
+Substituants: ['F', 'H', 'NO2', 'NO2', 'H', 'NH2']
+Positions: 1=F, 2=H, 3=NO2, 4=NO2, 5=H, 6=NH2
+
+Énergies:
+  HOMO: -0.23456 Ha
+  LUMO: -0.07535 Ha
+  GAP:  4.33233 eV
+
+Matrice des distances entre substituants:
+          F     H     H   NH2   NO2   NO2
+  F       0     1     2     1     2     3
+  H       1     0     3     2     1     2
+  H       2     3     0     1     2     1
+NH2       1     2     1     0     3     2
+NO2       2     1     2     3     0     1
+NO2       3     2     1     2     1     0
+
+ÉTAPE 55
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'CH3', 'H', 'NH2', 'CN', 'H']
+Positions: 1=CN, 2=CH3, 3=H, 4=NH2, 5=CN, 6=H
+
+Énergies:
+  HOMO: -0.23192 Ha
+  LUMO: -0.08206 Ha
+  GAP:  4.07790 eV
+
+Matrice des distances entre substituants:
+        CH3    CN    CN     H     H   NH2
+CH3       0     1     3     1     2     2
+ CN       1     0     2     2     1     3
+ CN       3     2     0     2     1     1
+  H       1     2     2     0     3     1
+  H       2     1     1     3     0     2
+NH2       2     3     1     1     2     0
+
+ÉTAPE 56
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'CN', 'CHO', 'NO2', 'F', 'OH']
+Positions: 1=CH3, 2=CN, 3=CHO, 4=NO2, 5=F, 6=OH
+
+Énergies:
+  HOMO: -0.30981 Ha
+  LUMO: -0.15659 Ha
+  GAP:  4.16933 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO    CN     F   NO2    OH
+CH3       0     2     1     2     3     1
+CHO       2     0     1     2     1     3
+ CN       1     1     0     3     2     2
+  F       2     2     3     0     1     1
+NO2       3     1     2     1     0     2
+ OH       1     3     2     1     2     0
+
+ÉTAPE 57
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'CHCH2', 'CH3', 'NO2', 'NO2', 'F']
+Positions: 1=CHCH2, 2=CHCH2, 3=CH3, 4=NO2, 5=NO2, 6=F
+
+Énergies:
+  HOMO: -0.21530 Ha
+  LUMO: -0.10173 Ha
+  GAP:  3.09040 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2 CHCH2     F   NO2   NO2
+  CH3       0     2     1     3     1     2
+CHCH2       2     0     1     1     3     2
+CHCH2       1     1     0     2     2     3
+    F       3     1     2     0     2     1
+  NO2       1     3     2     2     0     1
+  NO2       2     2     3     1     1     0
+
+ÉTAPE 58
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'CHCH2', 'CH3', 'CN', 'F', 'CN']
+Positions: 1=CH3, 2=CHCH2, 3=CH3, 4=CN, 5=F, 6=CN
+
+Énergies:
+  HOMO: -0.25237 Ha
+  LUMO: -0.08144 Ha
+  GAP:  4.65124 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2    CN    CN     F
+  CH3       0     2     1     3     1     2
+  CH3       2     0     1     1     3     2
+CHCH2       1     1     0     2     2     3
+   CN       3     1     2     0     2     1
+   CN       1     3     2     2     0     1
+    F       2     2     3     1     1     0
+
+ÉTAPE 59
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CN', 'CN', 'CN', 'H', 'OH']
+Positions: 1=CHO, 2=CN, 3=CN, 4=CN, 5=H, 6=OH
+
+Énergies:
+  HOMO: -0.19686 Ha
+  LUMO: -0.01756 Ha
+  GAP:  4.87900 eV
+
+Matrice des distances entre substituants:
+        CHO    CN    CN    CN     H    OH
+CHO       0     1     2     3     2     1
+ CN       1     0     1     2     3     2
+ CN       2     1     0     1     2     3
+ CN       3     2     1     0     1     2
+  H       2     3     2     1     0     1
+ OH       1     2     3     2     1     0
+
+ÉTAPE 60
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'H', 'OH', 'H', 'CN', 'CH3']
+Positions: 1=CN, 2=H, 3=OH, 4=H, 5=CN, 6=CH3
+
+Énergies:
+  HOMO: -0.22471 Ha
+  LUMO: -0.05179 Ha
+  GAP:  4.70540 eV
+
+Matrice des distances entre substituants:
+        CH3    CN    CN     H     H    OH
+CH3       0     1     1     2     2     3
+ CN       1     0     2     1     3     2
+ CN       1     2     0     3     1     2
+  H       2     1     3     0     2     1
+  H       2     3     1     2     0     1
+ OH       3     2     2     1     1     0
+
+ÉTAPE 61
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'NH2', 'CH3', 'H', 'NO2', 'CN']
+Positions: 1=CHCH2, 2=NH2, 3=CH3, 4=H, 5=NO2, 6=CN
+
+Énergies:
+  HOMO: -0.25069 Ha
+  LUMO: -0.09732 Ha
+  GAP:  4.17341 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2    CN     H   NH2   NO2
+  CH3       0     2     3     1     1     2
+CHCH2       2     0     1     3     1     2
+   CN       3     1     0     2     2     1
+    H       1     3     2     0     2     1
+  NH2       1     1     2     2     0     3
+  NO2       2     2     1     1     3     0
+
+ÉTAPE 62
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'NO2', 'CHO', 'CHCH2', 'F', 'CH3']
+Positions: 1=NO2, 2=NO2, 3=CHO, 4=CHCH2, 5=F, 6=CH3
+
+Énergies:
+  HOMO: -0.24766 Ha
+  LUMO: -0.05852 Ha
+  GAP:  5.14676 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO     F   NO2   NO2
+  CH3       0     2     3     1     1     2
+CHCH2       2     0     1     1     3     2
+  CHO       3     1     0     2     2     1
+    F       1     1     2     0     2     3
+  NO2       1     3     2     2     0     1
+  NO2       2     2     1     3     1     0
+
+ÉTAPE 63
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'F', 'CN', 'NH2', 'CHO', 'F']
+Positions: 1=CH3, 2=F, 3=CN, 4=NH2, 5=CHO, 6=F
+
+Énergies:
+  HOMO: -0.19224 Ha
+  LUMO: -0.07931 Ha
+  GAP:  3.07298 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO    CN     F     F   NH2
+CH3       0     2     2     1     1     3
+CHO       2     0     2     3     1     1
+ CN       2     2     0     1     3     1
+  F       1     3     1     0     2     2
+  F       1     1     3     2     0     2
+NH2       3     1     1     2     2     0
+
+ÉTAPE 64
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'CH3', 'CH3', 'NH2', 'NH2', 'NH2']
+Positions: 1=OH, 2=CH3, 3=CH3, 4=NH2, 5=NH2, 6=NH2
+
+Énergies:
+  HOMO: -0.18623 Ha
+  LUMO: -0.00190 Ha
+  GAP:  5.01588 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3   NH2   NH2   NH2    OH
+CH3       0     1     2     3     2     1
+CH3       1     0     1     2     3     2
+NH2       2     1     0     1     2     3
+NH2       3     2     1     0     1     2
+NH2       2     3     2     1     0     1
+ OH       1     2     3     2     1     0
+
+ÉTAPE 65
+--------------------------------------------------------------------------------
+Substituants: ['F', 'F', 'CHO', 'NH2', 'CN', 'CN']
+Positions: 1=F, 2=F, 3=CHO, 4=NH2, 5=CN, 6=CN
+
+Énergies:
+  HOMO: -0.22480 Ha
+  LUMO: -0.02532 Ha
+  GAP:  5.42813 eV
+
+Matrice des distances entre substituants:
+        CHO    CN    CN     F     F   NH2
+CHO       0     2     3     2     1     1
+ CN       2     0     1     2     3     1
+ CN       3     1     0     1     2     2
+  F       2     2     1     0     1     3
+  F       1     3     2     1     0     2
+NH2       1     1     2     3     2     0
+
+ÉTAPE 66
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'NO2', 'CHO', 'CHO', 'H', 'CHCH2']
+Positions: 1=CH3, 2=NO2, 3=CHO, 4=CHO, 5=H, 6=CHCH2
+
+Énergies:
+  HOMO: -0.23310 Ha
+  LUMO: -0.07000 Ha
+  GAP:  4.43818 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO   CHO     H   NO2
+  CH3       0     1     2     3     2     1
+CHCH2       1     0     3     2     1     2
+  CHO       2     3     0     1     2     1
+  CHO       3     2     1     0     1     2
+    H       2     1     2     1     0     3
+  NO2       1     2     1     2     3     0
+
+ÉTAPE 67
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'OH', 'CN', 'H', 'OH', 'CH3']
+Positions: 1=CHCH2, 2=OH, 3=CN, 4=H, 5=OH, 6=CH3
+
+Énergies:
+  HOMO: -0.27535 Ha
+  LUMO: -0.12955 Ha
+  GAP:  3.96742 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2    CN     H    OH    OH
+  CH3       0     1     3     2     2     1
+CHCH2       1     0     2     3     1     2
+   CN       3     2     0     1     1     2
+    H       2     3     1     0     2     1
+   OH       2     1     1     2     0     3
+   OH       1     2     2     1     3     0
+
+ÉTAPE 68
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'OH', 'H', 'NH2', 'CHCH2', 'CHO']
+Positions: 1=CHCH2, 2=OH, 3=H, 4=NH2, 5=CHCH2, 6=CHO
+
+Énergies:
+  HOMO: -0.25461 Ha
+  LUMO: -0.10806 Ha
+  GAP:  3.98783 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   CHO     H   NH2    OH
+CHCH2       0     2     1     2     3     1
+CHCH2       2     0     1     2     1     3
+  CHO       1     1     0     3     2     2
+    H       2     2     3     0     1     1
+  NH2       3     1     2     1     0     2
+   OH       1     3     2     1     2     0
+
+ÉTAPE 69
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'CH3', 'NH2', 'H', 'CN', 'NH2']
+Positions: 1=NO2, 2=CH3, 3=NH2, 4=H, 5=CN, 6=NH2
+
+Énergies:
+  HOMO: -0.21520 Ha
+  LUMO: -0.05635 Ha
+  GAP:  4.32253 eV
+
+Matrice des distances entre substituants:
+        CH3    CN     H   NH2   NH2   NO2
+CH3       0     3     2     1     2     1
+ CN       3     0     1     2     1     2
+  H       2     1     0     1     2     3
+NH2       1     2     1     0     3     2
+NH2       2     1     2     3     0     1
+NO2       1     2     3     2     1     0
+
+ÉTAPE 70
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CHO', 'CN', 'NO2', 'OH', 'CHCH2']
+Positions: 1=F, 2=CHO, 3=CN, 4=NO2, 5=OH, 6=CHCH2
+
+Énergies:
+  HOMO: -0.23612 Ha
+  LUMO: -0.06327 Ha
+  GAP:  4.70349 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO    CN     F   NO2    OH
+CHCH2       0     2     3     1     2     1
+  CHO       2     0     1     1     2     3
+   CN       3     1     0     2     1     2
+    F       1     1     2     0     3     2
+  NO2       2     2     1     3     0     1
+   OH       1     3     2     2     1     0
+
+ÉTAPE 71
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'NH2', 'CHCH2', 'CHO', 'CHO', 'NO2']
+Positions: 1=CN, 2=NH2, 3=CHCH2, 4=CHO, 5=CHO, 6=NO2
+
+Énergies:
+  HOMO: -0.27581 Ha
+  LUMO: -0.10699 Ha
+  GAP:  4.59383 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO   CHO    CN   NH2   NO2
+CHCH2       0     1     2     2     1     3
+  CHO       1     0     1     3     2     2
+  CHO       2     1     0     2     3     1
+   CN       2     3     2     0     1     1
+  NH2       1     2     3     1     0     2
+  NO2       3     2     1     1     2     0
+
+ÉTAPE 72
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'CN', 'CHO', 'CH3', 'OH', 'CHO']
+Positions: 1=CH3, 2=CN, 3=CHO, 4=CH3, 5=OH, 6=CHO
+
+Énergies:
+  HOMO: -0.26418 Ha
+  LUMO: -0.13609 Ha
+  GAP:  3.48551 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3   CHO   CHO    CN    OH
+CH3       0     3     2     1     1     2
+CH3       3     0     1     2     2     1
+CHO       2     1     0     3     1     2
+CHO       1     2     3     0     2     1
+ CN       1     2     1     2     0     3
+ OH       2     1     2     1     3     0
+
+ÉTAPE 73
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'CN', 'CHO', 'F', 'CN', 'CN']
+Positions: 1=CHCH2, 2=CN, 3=CHO, 4=F, 5=CN, 6=CN
+
+Énergies:
+  HOMO: -0.31935 Ha
+  LUMO: -0.16699 Ha
+  GAP:  4.14593 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO    CN    CN    CN     F
+CHCH2       0     2     1     2     1     3
+  CHO       2     0     1     2     3     1
+   CN       1     1     0     3     2     2
+   CN       2     2     3     0     1     1
+   CN       1     3     2     1     0     2
+    F       3     1     2     1     2     0
+
+ÉTAPE 74
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'F', 'F', 'CH3', 'CN', 'OH']
+Positions: 1=CHCH2, 2=F, 3=F, 4=CH3, 5=CN, 6=OH
+
+Énergies:
+  HOMO: -0.26903 Ha
+  LUMO: -0.09121 Ha
+  GAP:  4.83873 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2    CN     F     F    OH
+  CH3       0     3     1     2     1     2
+CHCH2       3     0     2     1     2     1
+   CN       1     2     0     3     2     1
+    F       2     1     3     0     1     2
+    F       1     2     2     1     0     3
+   OH       2     1     1     2     3     0
+
+ÉTAPE 75
+--------------------------------------------------------------------------------
+Substituants: ['F', 'NO2', 'NH2', 'OH', 'H', 'OH']
+Positions: 1=F, 2=NO2, 3=NH2, 4=OH, 5=H, 6=OH
+
+Énergies:
+  HOMO: -0.20191 Ha
+  LUMO: -0.03241 Ha
+  GAP:  4.61233 eV
+
+Matrice des distances entre substituants:
+          F     H   NH2   NO2    OH    OH
+  F       0     2     2     1     3     1
+  H       2     0     2     3     1     1
+NH2       2     2     0     1     1     3
+NO2       1     3     1     0     2     2
+ OH       3     1     1     2     0     2
+ OH       1     1     3     2     2     0
+
+ÉTAPE 76
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'NH2', 'NH2', 'NO2', 'CN', 'OH']
+Positions: 1=CHO, 2=NH2, 3=NH2, 4=NO2, 5=CN, 6=OH
+
+Énergies:
+  HOMO: -0.18828 Ha
+  LUMO: -0.01147 Ha
+  GAP:  4.81125 eV
+
+Matrice des distances entre substituants:
+        CHO    CN   NH2   NH2   NO2    OH
+CHO       0     2     1     2     3     1
+ CN       2     0     3     2     1     1
+NH2       1     3     0     1     2     2
+NH2       2     2     1     0     1     3
+NO2       3     1     2     1     0     2
+ OH       1     1     2     3     2     0
+
+ÉTAPE 77
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'NH2', 'CHO', 'CH3', 'NO2', 'CHO']
+Positions: 1=CN, 2=NH2, 3=CHO, 4=CH3, 5=NO2, 6=CHO
+
+Énergies:
+  HOMO: -0.25820 Ha
+  LUMO: -0.09097 Ha
+  GAP:  4.55056 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO   CHO    CN   NH2   NO2
+CH3       0     1     2     3     2     1
+CHO       1     0     3     2     1     2
+CHO       2     3     0     1     2     1
+ CN       3     2     1     0     1     2
+NH2       2     1     2     1     0     3
+NO2       1     2     1     2     3     0
+
+ÉTAPE 78
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'CHO', 'F', 'CHCH2', 'CN', 'CHCH2']
+Positions: 1=OH, 2=CHO, 3=F, 4=CHCH2, 5=CN, 6=CHCH2
+
+Énergies:
+  HOMO: -0.25224 Ha
+  LUMO: -0.09334 Ha
+  GAP:  4.32389 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   CHO    CN     F    OH
+CHCH2       0     2     2     1     1     3
+CHCH2       2     0     2     1     3     1
+  CHO       2     2     0     3     1     1
+   CN       1     1     3     0     2     2
+    F       1     3     1     2     0     2
+   OH       3     1     1     2     2     0
+
+ÉTAPE 79
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'NH2', 'CH3', 'NH2', 'NO2', 'CHO']
+Positions: 1=CH3, 2=NH2, 3=CH3, 4=NH2, 5=NO2, 6=CHO
+
+Énergies:
+  HOMO: -0.20151 Ha
+  LUMO: 0.01576 Ha
+  GAP:  5.91222 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3   CHO   NH2   NH2   NO2
+CH3       0     2     1     1     3     2
+CH3       2     0     3     1     1     2
+CHO       1     3     0     2     2     1
+NH2       1     1     2     0     2     3
+NH2       3     1     2     2     0     1
+NO2       2     2     1     3     1     0
+
+ÉTAPE 80
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'NH2', 'H', 'CH3', 'CHCH2', 'OH']
+Positions: 1=CH3, 2=NH2, 3=H, 4=CH3, 5=CHCH2, 6=OH
+
+Énergies:
+  HOMO: -0.27218 Ha
+  LUMO: -0.13183 Ha
+  GAP:  3.81912 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2     H   NH2    OH
+  CH3       0     3     2     2     1     1
+  CH3       3     0     1     1     2     2
+CHCH2       2     1     0     2     3     1
+    H       2     1     2     0     1     3
+  NH2       1     2     3     1     0     2
+   OH       1     2     1     3     2     0
+
+ÉTAPE 81
+--------------------------------------------------------------------------------
+Substituants: ['H', 'NH2', 'F', 'NH2', 'NO2', 'CHCH2']
+Positions: 1=H, 2=NH2, 3=F, 4=NH2, 5=NO2, 6=CHCH2
+
+Énergies:
+  HOMO: -0.20526 Ha
+  LUMO: -0.00663 Ha
+  GAP:  5.40500 eV
+
+Matrice des distances entre substituants:
+        CHCH2     F     H   NH2   NH2   NO2
+CHCH2       0     3     1     2     2     1
+    F       3     0     2     1     1     2
+    H       1     2     0     1     3     2
+  NH2       2     1     1     0     2     3
+  NH2       2     1     3     2     0     1
+  NO2       1     2     2     3     1     0
+
+ÉTAPE 82
+--------------------------------------------------------------------------------
+Substituants: ['F', 'NO2', 'NO2', 'F', 'F', 'NH2']
+Positions: 1=F, 2=NO2, 3=NO2, 4=F, 5=F, 6=NH2
+
+Énergies:
+  HOMO: -0.26399 Ha
+  LUMO: -0.09447 Ha
+  GAP:  4.61288 eV
+
+Matrice des distances entre substituants:
+          F     F     F   NH2   NO2   NO2
+  F       0     3     2     1     1     2
+  F       3     0     1     2     2     1
+  F       2     1     0     1     3     2
+NH2       1     2     1     0     2     3
+NO2       1     2     3     2     0     1
+NO2       2     1     2     3     1     0
+
+ÉTAPE 83
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'NH2', 'CHCH2', 'CN', 'CN', 'H']
+Positions: 1=NO2, 2=NH2, 3=CHCH2, 4=CN, 5=CN, 6=H
+
+Énergies:
+  HOMO: -0.23223 Ha
+  LUMO: -0.02402 Ha
+  GAP:  5.66569 eV
+
+Matrice des distances entre substituants:
+        CHCH2    CN    CN     H   NH2   NO2
+CHCH2       0     1     2     3     1     2
+   CN       1     0     1     2     2     3
+   CN       2     1     0     1     3     2
+    H       3     2     1     0     2     1
+  NH2       1     2     3     2     0     1
+  NO2       2     3     2     1     1     0
+
+ÉTAPE 84
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'F', 'NH2', 'CHCH2', 'CH3', 'CHCH2']
+Positions: 1=CH3, 2=F, 3=NH2, 4=CHCH2, 5=CH3, 6=CHCH2
+
+Énergies:
+  HOMO: -0.23698 Ha
+  LUMO: -0.06677 Ha
+  GAP:  4.63165 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2 CHCH2     F   NH2
+  CH3       0     2     3     1     1     2
+  CH3       2     0     1     1     3     2
+CHCH2       3     1     0     2     2     1
+CHCH2       1     1     2     0     2     3
+    F       1     3     2     2     0     1
+  NH2       2     2     1     3     1     0
+
+ÉTAPE 85
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'NH2', 'CHCH2', 'CHCH2', 'CHO', 'F']
+Positions: 1=CN, 2=NH2, 3=CHCH2, 4=CHCH2, 5=CHO, 6=F
+
+Énergies:
+  HOMO: -0.25722 Ha
+  LUMO: -0.12292 Ha
+  GAP:  3.65449 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   CHO    CN     F   NH2
+CHCH2       0     1     2     2     3     1
+CHCH2       1     0     1     3     2     2
+  CHO       2     1     0     2     1     3
+   CN       2     3     2     0     1     1
+    F       3     2     1     1     0     2
+  NH2       1     2     3     1     2     0
+
+ÉTAPE 86
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'CHCH2', 'CHO', 'H', 'F', 'CN']
+Positions: 1=CHCH2, 2=CHCH2, 3=CHO, 4=H, 5=F, 6=CN
+
+Énergies:
+  HOMO: -0.21200 Ha
+  LUMO: -0.10359 Ha
+  GAP:  2.94999 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   CHO    CN     F     H
+CHCH2       0     1     2     1     2     3
+CHCH2       1     0     1     2     3     2
+  CHO       2     1     0     3     2     1
+   CN       1     2     3     0     1     2
+    F       2     3     2     1     0     1
+    H       3     2     1     2     1     0
+
+ÉTAPE 87
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'CHO', 'CH3', 'NH2', 'H', 'F']
+Positions: 1=NO2, 2=CHO, 3=CH3, 4=NH2, 5=H, 6=F
+
+Énergies:
+  HOMO: -0.21452 Ha
+  LUMO: -0.07213 Ha
+  GAP:  3.87463 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO     F     H   NH2   NO2
+CH3       0     1     3     2     1     2
+CHO       1     0     2     3     2     1
+  F       3     2     0     1     2     1
+  H       2     3     1     0     1     2
+NH2       1     2     2     1     0     3
+NO2       2     1     1     2     3     0
+
+ÉTAPE 88
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'CH3', 'OH', 'CH3', 'CHCH2', 'H']
+Positions: 1=CN, 2=CH3, 3=OH, 4=CH3, 5=CHCH2, 6=H
+
+Énergies:
+  HOMO: -0.20493 Ha
+  LUMO: -0.07437 Ha
+  GAP:  3.55272 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2    CN     H    OH
+  CH3       0     2     3     1     2     1
+  CH3       2     0     1     3     2     1
+CHCH2       3     1     0     2     1     2
+   CN       1     3     2     0     1     2
+    H       2     2     1     1     0     3
+   OH       1     1     2     2     3     0
+
+ÉTAPE 89
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'OH', 'CH3', 'OH', 'CHO', 'CHCH2']
+Positions: 1=CHO, 2=OH, 3=CH3, 4=OH, 5=CHO, 6=CHCH2
+
+Énergies:
+  HOMO: -0.22008 Ha
+  LUMO: -0.10313 Ha
+  GAP:  3.18237 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO   CHO    OH    OH
+  CH3       0     3     2     2     1     1
+CHCH2       3     0     1     1     2     2
+  CHO       2     1     0     2     1     3
+  CHO       2     1     2     0     3     1
+   OH       1     2     1     3     0     2
+   OH       1     2     3     1     2     0
+
+ÉTAPE 90
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'NO2', 'F', 'OH', 'OH', 'F']
+Positions: 1=CHO, 2=NO2, 3=F, 4=OH, 5=OH, 6=F
+
+Énergies:
+  HOMO: -0.17321 Ha
+  LUMO: -0.03457 Ha
+  GAP:  3.77259 eV
+
+Matrice des distances entre substituants:
+        CHO     F     F   NO2    OH    OH
+CHO       0     2     1     1     3     2
+  F       2     0     3     1     1     2
+  F       1     3     0     2     2     1
+NO2       1     1     2     0     2     3
+ OH       3     1     2     2     0     1
+ OH       2     2     1     3     1     0
+
+ÉTAPE 91
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'OH', 'NH2', 'CHO', 'OH', 'H']
+Positions: 1=CHO, 2=OH, 3=NH2, 4=CHO, 5=OH, 6=H
+
+Énergies:
+  HOMO: -0.21044 Ha
+  LUMO: -0.04225 Ha
+  GAP:  4.57669 eV
+
+Matrice des distances entre substituants:
+        CHO   CHO     H   NH2    OH    OH
+CHO       0     3     1     2     1     2
+CHO       3     0     2     1     2     1
+  H       1     2     0     3     2     1
+NH2       2     1     3     0     1     2
+ OH       1     2     2     1     0     3
+ OH       2     1     1     2     3     0
+
+ÉTAPE 92
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CHCH2', 'CHO', 'F', 'CHO', 'F']
+Positions: 1=F, 2=CHCH2, 3=CHO, 4=F, 5=CHO, 6=F
+
+Énergies:
+  HOMO: -0.24284 Ha
+  LUMO: -0.09947 Ha
+  GAP:  3.90130 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO   CHO     F     F     F
+CHCH2       0     1     3     1     2     2
+  CHO       1     0     2     2     1     3
+  CHO       3     2     0     2     1     1
+    F       1     2     2     0     3     1
+    F       2     1     1     3     0     2
+    F       2     3     1     1     2     0
+
+ÉTAPE 93
+--------------------------------------------------------------------------------
+Substituants: ['F', 'H', 'CH3', 'CHO', 'F', 'CN']
+Positions: 1=F, 2=H, 3=CH3, 4=CHO, 5=F, 6=CN
+
+Énergies:
+  HOMO: -0.22706 Ha
+  LUMO: -0.02636 Ha
+  GAP:  5.46133 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO    CN     F     F     H
+CH3       0     1     3     2     2     1
+CHO       1     0     2     3     1     2
+ CN       3     2     0     1     1     2
+  F       2     3     1     0     2     1
+  F       2     1     1     2     0     3
+  H       1     2     2     1     3     0
+
+ÉTAPE 94
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'F', 'CHCH2', 'OH', 'NH2', 'NH2']
+Positions: 1=NO2, 2=F, 3=CHCH2, 4=OH, 5=NH2, 6=NH2
+
+Énergies:
+  HOMO: -0.22694 Ha
+  LUMO: -0.09501 Ha
+  GAP:  3.59000 eV
+
+Matrice des distances entre substituants:
+        CHCH2     F   NH2   NH2   NO2    OH
+CHCH2       0     1     2     3     2     1
+    F       1     0     3     2     1     2
+  NH2       2     3     0     1     2     1
+  NH2       3     2     1     0     1     2
+  NO2       2     1     2     1     0     3
+   OH       1     2     1     2     3     0
+
+ÉTAPE 95
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'CHO', 'F', 'CN', 'CH3', 'NH2']
+Positions: 1=OH, 2=CHO, 3=F, 4=CN, 5=CH3, 6=NH2
+
+Énergies:
+  HOMO: -0.20887 Ha
+  LUMO: -0.03955 Ha
+  GAP:  4.60743 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO    CN     F   NH2    OH
+CH3       0     3     1     2     1     2
+CHO       3     0     2     1     2     1
+ CN       1     2     0     1     2     3
+  F       2     1     1     0     3     2
+NH2       1     2     2     3     0     1
+ OH       2     1     3     2     1     0
+
+ÉTAPE 96
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CHO', 'OH', 'CHO', 'NH2', 'F']
+Positions: 1=CHO, 2=CHO, 3=OH, 4=CHO, 5=NH2, 6=F
+
+Énergies:
+  HOMO: -0.27328 Ha
+  LUMO: -0.09887 Ha
+  GAP:  4.74594 eV
+
+Matrice des distances entre substituants:
+        CHO   CHO   CHO     F   NH2    OH
+CHO       0     1     3     1     2     2
+CHO       1     0     2     2     3     1
+CHO       3     2     0     2     1     1
+  F       1     2     2     0     1     3
+NH2       2     3     1     1     0     2
+ OH       2     1     1     3     2     0
+
+ÉTAPE 97
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'CN', 'CH3', 'H', 'CHO', 'CN']
+Positions: 1=CHCH2, 2=CN, 3=CH3, 4=H, 5=CHO, 6=CN
+
+Énergies:
+  HOMO: -0.21507 Ha
+  LUMO: -0.07183 Ha
+  GAP:  3.89776 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO    CN    CN     H
+  CH3       0     2     2     1     3     1
+CHCH2       2     0     2     1     1     3
+  CHO       2     2     0     3     1     1
+   CN       1     1     3     0     2     2
+   CN       3     1     1     2     0     2
+    H       1     3     1     2     2     0
+
+ÉTAPE 98
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'CH3', 'F', 'CHO', 'F', 'CN']
+Positions: 1=NO2, 2=CH3, 3=F, 4=CHO, 5=F, 6=CN
+
+Énergies:
+  HOMO: -0.24751 Ha
+  LUMO: -0.12015 Ha
+  GAP:  3.46564 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO    CN     F     F   NO2
+CH3       0     2     2     1     3     1
+CHO       2     0     2     1     1     3
+ CN       2     2     0     3     1     1
+  F       1     1     3     0     2     2
+  F       3     1     1     2     0     2
+NO2       1     3     1     2     2     0
+
+ÉTAPE 99
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'OH', 'CH3', 'CH3', 'CHCH2', 'F']
+Positions: 1=NO2, 2=OH, 3=CH3, 4=CH3, 5=CHCH2, 6=F
+
+Énergies:
+  HOMO: -0.27584 Ha
+  LUMO: -0.10359 Ha
+  GAP:  4.68716 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2     F   NO2    OH
+  CH3       0     1     2     3     2     1
+  CH3       1     0     1     2     3     2
+CHCH2       2     1     0     1     2     3
+    F       3     2     1     0     1     2
+  NO2       2     3     2     1     0     1
+   OH       1     2     3     2     1     0
+
+ÉTAPE 100
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'OH', 'H', 'F', 'CHCH2', 'F']
+Positions: 1=NH2, 2=OH, 3=H, 4=F, 5=CHCH2, 6=F
+
+Énergies:
+  HOMO: -0.24334 Ha
+  LUMO: -0.09426 Ha
+  GAP:  4.05668 eV
+
+Matrice des distances entre substituants:
+        CHCH2     F     F     H   NH2    OH
+CHCH2       0     1     1     2     2     3
+    F       1     0     2     1     3     2
+    F       1     2     0     3     1     2
+    H       2     1     3     0     2     1
+  NH2       2     3     1     2     0     1
+   OH       3     2     2     1     1     0
+
+ÉTAPE 101
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'H', 'CHO', 'OH', 'F', 'NO2']
+Positions: 1=NO2, 2=H, 3=CHO, 4=OH, 5=F, 6=NO2
+
+Énergies:
+  HOMO: -0.26745 Ha
+  LUMO: -0.11201 Ha
+  GAP:  4.22974 eV
+
+Matrice des distances entre substituants:
+        CHO     F     H   NO2   NO2    OH
+CHO       0     2     1     2     3     1
+  F       2     0     3     2     1     1
+  H       1     3     0     1     2     2
+NO2       2     2     1     0     1     3
+NO2       3     1     2     1     0     2
+ OH       1     1     2     3     2     0
+
+ÉTAPE 102
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'CH3', 'F', 'CH3', 'NH2', 'H']
+Positions: 1=NO2, 2=CH3, 3=F, 4=CH3, 5=NH2, 6=H
+
+Énergies:
+  HOMO: -0.26328 Ha
+  LUMO: -0.09923 Ha
+  GAP:  4.46403 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3     F     H   NH2   NO2
+CH3       0     2     1     2     3     1
+CH3       2     0     1     2     1     3
+  F       1     1     0     3     2     2
+  H       2     2     3     0     1     1
+NH2       3     1     2     1     0     2
+NO2       1     3     2     1     2     0
+
+ÉTAPE 103
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'H', 'NO2', 'CH3', 'CH3', 'NO2']
+Positions: 1=CH3, 2=H, 3=NO2, 4=CH3, 5=CH3, 6=NO2
+
+Énergies:
+  HOMO: -0.25758 Ha
+  LUMO: -0.07193 Ha
+  GAP:  5.05180 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3   CH3     H   NO2   NO2
+CH3       0     3     2     1     2     1
+CH3       3     0     1     2     1     2
+CH3       2     1     0     3     2     1
+  H       1     2     3     0     1     2
+NO2       2     1     2     1     0     3
+NO2       1     2     1     2     3     0
+
+ÉTAPE 104
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'OH', 'F', 'H', 'NH2', 'OH']
+Positions: 1=CHCH2, 2=OH, 3=F, 4=H, 5=NH2, 6=OH
+
+Énergies:
+  HOMO: -0.24869 Ha
+  LUMO: -0.01359 Ha
+  GAP:  6.39740 eV
+
+Matrice des distances entre substituants:
+        CHCH2     F     H   NH2    OH    OH
+CHCH2       0     2     3     2     1     1
+    F       2     0     1     2     1     3
+    H       3     1     0     1     2     2
+  NH2       2     2     1     0     3     1
+   OH       1     1     2     3     0     2
+   OH       1     3     2     1     2     0
+
+ÉTAPE 105
+--------------------------------------------------------------------------------
+Substituants: ['F', 'H', 'F', 'F', 'H', 'NO2']
+Positions: 1=F, 2=H, 3=F, 4=F, 5=H, 6=NO2
+
+Énergies:
+  HOMO: -0.25425 Ha
+  LUMO: -0.11299 Ha
+  GAP:  3.84388 eV
+
+Matrice des distances entre substituants:
+          F     F     F     H     H   NO2
+  F       0     2     3     1     2     1
+  F       2     0     1     1     2     3
+  F       3     1     0     2     1     2
+  H       1     1     2     0     3     2
+  H       2     2     1     3     0     1
+NO2       1     3     2     2     1     0
+
+ÉTAPE 106
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'NO2', 'CHO', 'CHO', 'F', 'CHO']
+Positions: 1=CN, 2=NO2, 3=CHO, 4=CHO, 5=F, 6=CHO
+
+Énergies:
+  HOMO: -0.24649 Ha
+  LUMO: -0.09807 Ha
+  GAP:  4.03872 eV
+
+Matrice des distances entre substituants:
+        CHO   CHO   CHO    CN     F   NO2
+CHO       0     1     3     2     2     1
+CHO       1     0     2     3     1     2
+CHO       3     2     0     1     1     2
+ CN       2     3     1     0     2     1
+  F       2     1     1     2     0     3
+NO2       1     2     2     1     3     0
+
+ÉTAPE 107
+--------------------------------------------------------------------------------
+Substituants: ['H', 'CHCH2', 'H', 'H', 'CHO', 'F']
+Positions: 1=H, 2=CHCH2, 3=H, 4=H, 5=CHO, 6=F
+
+Énergies:
+  HOMO: -0.15646 Ha
+  LUMO: 0.02504 Ha
+  GAP:  4.93887 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO     F     H     H     H
+CHCH2       0     3     2     1     1     2
+  CHO       3     0     1     2     2     1
+    F       2     1     0     1     3     2
+    H       1     2     1     0     2     3
+    H       1     2     3     2     0     1
+    H       2     1     2     3     1     0
+
+ÉTAPE 108
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CHO', 'NO2', 'CHCH2', 'NO2', 'CHCH2']
+Positions: 1=F, 2=CHO, 3=NO2, 4=CHCH2, 5=NO2, 6=CHCH2
+
+Énergies:
+  HOMO: -0.24302 Ha
+  LUMO: -0.09372 Ha
+  GAP:  4.06266 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   CHO     F   NO2   NO2
+CHCH2       0     2     2     3     1     1
+CHCH2       2     0     2     1     3     1
+  CHO       2     2     0     1     1     3
+    F       3     1     1     0     2     2
+  NO2       1     3     1     2     0     2
+  NO2       1     1     3     2     2     0
+
+ÉTAPE 109
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'H', 'NH2', 'NH2', 'CHCH2', 'CHO']
+Positions: 1=NO2, 2=H, 3=NH2, 4=NH2, 5=CHCH2, 6=CHO
+
+Énergies:
+  HOMO: -0.22937 Ha
+  LUMO: -0.06170 Ha
+  GAP:  4.56254 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO     H   NH2   NH2   NO2
+CHCH2       0     1     3     2     1     2
+  CHO       1     0     2     3     2     1
+    H       3     2     0     1     2     1
+  NH2       2     3     1     0     1     2
+  NH2       1     2     2     1     0     3
+  NO2       2     1     1     2     3     0
+
+ÉTAPE 110
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'H', 'CHO', 'NH2', 'F', 'F']
+Positions: 1=CH3, 2=H, 3=CHO, 4=NH2, 5=F, 6=F
+
+Énergies:
+  HOMO: -0.26952 Ha
+  LUMO: -0.10000 Ha
+  GAP:  4.61288 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO     F     F     H   NH2
+CH3       0     2     2     1     1     3
+CHO       2     0     2     3     1     1
+  F       2     2     0     1     3     1
+  F       1     3     1     0     2     2
+  H       1     1     3     2     0     2
+NH2       3     1     1     2     2     0
+
+ÉTAPE 111
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CH3', 'F', 'NO2', 'NO2', 'NH2']
+Positions: 1=F, 2=CH3, 3=F, 4=NO2, 5=NO2, 6=NH2
+
+Énergies:
+  HOMO: -0.27971 Ha
+  LUMO: -0.12470 Ha
+  GAP:  4.21804 eV
+
+Matrice des distances entre substituants:
+        CH3     F     F   NH2   NO2   NO2
+CH3       0     1     1     2     2     3
+  F       1     0     2     1     3     2
+  F       1     2     0     3     1     2
+NH2       2     1     3     0     2     1
+NO2       2     3     1     2     0     1
+NO2       3     2     2     1     1     0
+
+ÉTAPE 112
+--------------------------------------------------------------------------------
+Substituants: ['F', 'OH', 'OH', 'CHCH2', 'H', 'H']
+Positions: 1=F, 2=OH, 3=OH, 4=CHCH2, 5=H, 6=H
+
+Énergies:
+  HOMO: -0.22916 Ha
+  LUMO: -0.08680 Ha
+  GAP:  3.87381 eV
+
+Matrice des distances entre substituants:
+        CHCH2     F     H     H    OH    OH
+CHCH2       0     3     1     2     2     1
+    F       3     0     2     1     1     2
+    H       1     2     0     1     3     2
+    H       2     1     1     0     2     3
+   OH       2     1     3     2     0     1
+   OH       1     2     2     3     1     0
+
+ÉTAPE 113
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CN', 'NO2', 'NO2', 'CN', 'OH']
+Positions: 1=CHO, 2=CN, 3=NO2, 4=NO2, 5=CN, 6=OH
+
+Énergies:
+  HOMO: -0.22985 Ha
+  LUMO: -0.09586 Ha
+  GAP:  3.64606 eV
+
+Matrice des distances entre substituants:
+        CHO    CN    CN   NO2   NO2    OH
+CHO       0     1     2     2     3     1
+ CN       1     0     3     1     2     2
+ CN       2     3     0     2     1     1
+NO2       2     1     2     0     1     3
+NO2       3     2     1     1     0     2
+ OH       1     2     1     3     2     0
+
+ÉTAPE 114
+--------------------------------------------------------------------------------
+Substituants: ['F', 'NO2', 'F', 'CHO', 'NH2', 'OH']
+Positions: 1=F, 2=NO2, 3=F, 4=CHO, 5=NH2, 6=OH
+
+Énergies:
+  HOMO: -0.28210 Ha
+  LUMO: -0.08118 Ha
+  GAP:  5.46731 eV
+
+Matrice des distances entre substituants:
+        CHO     F     F   NH2   NO2    OH
+CHO       0     3     1     1     2     2
+  F       3     0     2     2     1     1
+  F       1     2     0     2     1     3
+NH2       1     2     2     0     3     1
+NO2       2     1     1     3     0     2
+ OH       2     1     3     1     2     0
+
+ÉTAPE 115
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'H', 'NO2', 'CHO', 'NH2', 'F']
+Positions: 1=CN, 2=H, 3=NO2, 4=CHO, 5=NH2, 6=F
+
+Énergies:
+  HOMO: -0.26466 Ha
+  LUMO: -0.08842 Ha
+  GAP:  4.79574 eV
+
+Matrice des distances entre substituants:
+        CHO    CN     F     H   NH2   NO2
+CHO       0     3     2     2     1     1
+ CN       3     0     1     1     2     2
+  F       2     1     0     2     1     3
+  H       2     1     2     0     3     1
+NH2       1     2     1     3     0     2
+NO2       1     2     3     1     2     0
+
+ÉTAPE 116
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'NO2', 'OH', 'CH3', 'OH', 'CHO']
+Positions: 1=CHO, 2=NO2, 3=OH, 4=CH3, 5=OH, 6=CHO
+
+Énergies:
+  HOMO: -0.23339 Ha
+  LUMO: -0.09136 Ha
+  GAP:  3.86484 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO   CHO   NO2    OH    OH
+CH3       0     3     2     2     1     1
+CHO       3     0     1     1     2     2
+CHO       2     1     0     2     3     1
+NO2       2     1     2     0     1     3
+ OH       1     2     3     1     0     2
+ OH       1     2     1     3     2     0
+
+ÉTAPE 117
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'F', 'CN', 'CN', 'OH', 'F']
+Positions: 1=NO2, 2=F, 3=CN, 4=CN, 5=OH, 6=F
+
+Énergies:
+  HOMO: -0.25334 Ha
+  LUMO: -0.06219 Ha
+  GAP:  5.20146 eV
+
+Matrice des distances entre substituants:
+         CN    CN     F     F   NO2    OH
+ CN       0     1     1     3     2     2
+ CN       1     0     2     2     3     1
+  F       1     2     0     2     1     3
+  F       3     2     2     0     1     1
+NO2       2     3     1     1     0     2
+ OH       2     1     3     1     2     0
+
+ÉTAPE 118
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'CHCH2', 'NH2', 'OH', 'CHO', 'CH3']
+Positions: 1=NH2, 2=CHCH2, 3=NH2, 4=OH, 5=CHO, 6=CH3
+
+Énergies:
+  HOMO: -0.32826 Ha
+  LUMO: -0.16306 Ha
+  GAP:  4.49532 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO   NH2   NH2    OH
+  CH3       0     2     1     1     3     2
+CHCH2       2     0     3     1     1     2
+  CHO       1     3     0     2     2     1
+  NH2       1     1     2     0     2     3
+  NH2       3     1     2     2     0     1
+   OH       2     2     1     3     1     0
+
+ÉTAPE 119
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'NO2', 'H', 'CHCH2', 'OH', 'CHCH2']
+Positions: 1=CHO, 2=NO2, 3=H, 4=CHCH2, 5=OH, 6=CHCH2
+
+Énergies:
+  HOMO: -0.21534 Ha
+  LUMO: -0.07830 Ha
+  GAP:  3.72905 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   CHO     H   NO2    OH
+CHCH2       0     2     3     1     2     1
+CHCH2       2     0     1     3     2     1
+  CHO       3     1     0     2     1     2
+    H       1     3     2     0     1     2
+  NO2       2     2     1     1     0     3
+   OH       1     1     2     2     3     0
+
+ÉTAPE 120
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'CHO', 'CH3', 'CH3', 'H', 'NO2']
+Positions: 1=CN, 2=CHO, 3=CH3, 4=CH3, 5=H, 6=NO2
+
+Énergies:
+  HOMO: -0.20673 Ha
+  LUMO: -0.05482 Ha
+  GAP:  4.13368 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3   CHO    CN     H   NO2
+CH3       0     1     1     2     2     3
+CH3       1     0     2     3     1     2
+CHO       1     2     0     1     3     2
+ CN       2     3     1     0     2     1
+  H       2     1     3     2     0     1
+NO2       3     2     2     1     1     0
+
+ÉTAPE 121
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'CHO', 'CH3', 'CHCH2', 'NH2', 'OH']
+Positions: 1=NO2, 2=CHO, 3=CH3, 4=CHCH2, 5=NH2, 6=OH
+
+Énergies:
+  HOMO: -0.24819 Ha
+  LUMO: -0.05863 Ha
+  GAP:  5.15819 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO   NH2   NO2    OH
+  CH3       0     1     1     2     2     3
+CHCH2       1     0     2     1     3     2
+  CHO       1     2     0     3     1     2
+  NH2       2     1     3     0     2     1
+  NO2       2     3     1     2     0     1
+   OH       3     2     2     1     1     0
+
+ÉTAPE 122
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'OH', 'CH3', 'NH2', 'H', 'CHCH2']
+Positions: 1=CHCH2, 2=OH, 3=CH3, 4=NH2, 5=H, 6=CHCH2
+
+Énergies:
+  HOMO: -0.29665 Ha
+  LUMO: -0.13907 Ha
+  GAP:  4.28797 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2 CHCH2     H   NH2    OH
+  CH3       0     2     3     2     1     1
+CHCH2       2     0     1     2     3     1
+CHCH2       3     1     0     1     2     2
+    H       2     2     1     0     1     3
+  NH2       1     3     2     1     0     2
+   OH       1     1     2     3     2     0
+
+ÉTAPE 123
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CHO', 'CN', 'CHCH2', 'NH2', 'OH']
+Positions: 1=F, 2=CHO, 3=CN, 4=CHCH2, 5=NH2, 6=OH
+
+Énergies:
+  HOMO: -0.28588 Ha
+  LUMO: -0.12705 Ha
+  GAP:  4.32199 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO    CN     F   NH2    OH
+CHCH2       0     2     1     3     1     2
+  CHO       2     0     1     1     3     2
+   CN       1     1     0     2     2     3
+    F       3     1     2     0     2     1
+  NH2       1     3     2     2     0     1
+   OH       2     2     3     1     1     0
+
+ÉTAPE 124
+--------------------------------------------------------------------------------
+Substituants: ['H', 'CHO', 'CHCH2', 'NH2', 'H', 'NO2']
+Positions: 1=H, 2=CHO, 3=CHCH2, 4=NH2, 5=H, 6=NO2
+
+Énergies:
+  HOMO: -0.28050 Ha
+  LUMO: -0.10465 Ha
+  GAP:  4.78512 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO     H     H   NH2   NO2
+CHCH2       0     1     2     2     1     3
+  CHO       1     0     1     3     2     2
+    H       2     1     0     2     3     1
+    H       2     3     2     0     1     1
+  NH2       1     2     3     1     0     2
+  NO2       3     2     1     1     2     0
+
+ÉTAPE 125
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'NO2', 'NO2', 'F', 'NO2', 'CHCH2']
+Positions: 1=CHCH2, 2=NO2, 3=NO2, 4=F, 5=NO2, 6=CHCH2
+
+Énergies:
+  HOMO: -0.21142 Ha
+  LUMO: -0.00285 Ha
+  GAP:  5.67548 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2     F   NO2   NO2   NO2
+CHCH2       0     1     3     1     2     2
+CHCH2       1     0     2     2     3     1
+    F       3     2     0     2     1     1
+  NO2       1     2     2     0     1     3
+  NO2       2     3     1     1     0     2
+  NO2       2     1     1     3     2     0
+
+ÉTAPE 126
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'NO2', 'CHO', 'NO2', 'F', 'F']
+Positions: 1=CHCH2, 2=NO2, 3=CHO, 4=NO2, 5=F, 6=F
+
+Énergies:
+  HOMO: -0.26117 Ha
+  LUMO: -0.08888 Ha
+  GAP:  4.68825 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO     F     F   NO2   NO2
+CHCH2       0     2     2     1     1     3
+  CHO       2     0     2     3     1     1
+    F       2     2     0     1     3     1
+    F       1     3     1     0     2     2
+  NO2       1     1     3     2     0     2
+  NO2       3     1     1     2     2     0
+
+ÉTAPE 127
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'CH3', 'CHCH2', 'CH3', 'CN', 'CHCH2']
+Positions: 1=CN, 2=CH3, 3=CHCH2, 4=CH3, 5=CN, 6=CHCH2
+
+Énergies:
+  HOMO: -0.23818 Ha
+  LUMO: -0.09324 Ha
+  GAP:  3.94402 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2 CHCH2    CN    CN
+  CH3       0     2     1     2     1     3
+  CH3       2     0     1     2     3     1
+CHCH2       1     1     0     3     2     2
+CHCH2       2     2     3     0     1     1
+   CN       1     3     2     1     0     2
+   CN       3     1     2     1     2     0
+
+ÉTAPE 128
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'CH3', 'OH', 'CHCH2', 'F', 'CHO']
+Positions: 1=CH3, 2=CH3, 3=OH, 4=CHCH2, 5=F, 6=CHO
+
+Énergies:
+  HOMO: -0.21927 Ha
+  LUMO: -0.08827 Ha
+  GAP:  3.56469 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2   CHO     F    OH
+  CH3       0     1     3     1     2     2
+  CH3       1     0     2     2     3     1
+CHCH2       3     2     0     2     1     1
+  CHO       1     2     2     0     1     3
+    F       2     3     1     1     0     2
+   OH       2     1     1     3     2     0
+
+ÉTAPE 129
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'F', 'H', 'F', 'F', 'NO2']
+Positions: 1=NH2, 2=F, 3=H, 4=F, 5=F, 6=NO2
+
+Énergies:
+  HOMO: -0.26814 Ha
+  LUMO: -0.12300 Ha
+  GAP:  3.94946 eV
+
+Matrice des distances entre substituants:
+          F     F     F     H   NH2   NO2
+  F       0     2     3     1     1     2
+  F       2     0     1     1     3     2
+  F       3     1     0     2     2     1
+  H       1     1     2     0     2     3
+NH2       1     3     2     2     0     1
+NO2       2     2     1     3     1     0
+
+ÉTAPE 130
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'OH', 'F', 'CHO', 'NO2', 'F']
+Positions: 1=CHO, 2=OH, 3=F, 4=CHO, 5=NO2, 6=F
+
+Énergies:
+  HOMO: -0.25869 Ha
+  LUMO: -0.07712 Ha
+  GAP:  4.94077 eV
+
+Matrice des distances entre substituants:
+        CHO   CHO     F     F   NO2    OH
+CHO       0     3     2     1     2     1
+CHO       3     0     1     2     1     2
+  F       2     1     0     3     2     1
+  F       1     2     3     0     1     2
+NO2       2     1     2     1     0     3
+ OH       1     2     1     2     3     0
+
+ÉTAPE 131
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'F', 'CN', 'NH2', 'NH2', 'OH']
+Positions: 1=OH, 2=F, 3=CN, 4=NH2, 5=NH2, 6=OH
+
+Énergies:
+  HOMO: -0.22975 Ha
+  LUMO: -0.06755 Ha
+  GAP:  4.41369 eV
+
+Matrice des distances entre substituants:
+         CN     F   NH2   NH2    OH    OH
+ CN       0     1     1     2     2     3
+  F       1     0     2     3     1     2
+NH2       1     2     0     1     3     2
+NH2       2     3     1     0     2     1
+ OH       2     1     3     2     0     1
+ OH       3     2     2     1     1     0
+
+ÉTAPE 132
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'CN', 'H', 'OH', 'OH', 'H']
+Positions: 1=CH3, 2=CN, 3=H, 4=OH, 5=OH, 6=H
+
+Énergies:
+  HOMO: -0.21453 Ha
+  LUMO: -0.08641 Ha
+  GAP:  3.48632 eV
+
+Matrice des distances entre substituants:
+        CH3    CN     H     H    OH    OH
+CH3       0     1     2     1     3     2
+ CN       1     0     1     2     2     3
+  H       2     1     0     3     1     2
+  H       1     2     3     0     2     1
+ OH       3     2     1     2     0     1
+ OH       2     3     2     1     1     0
+
+ÉTAPE 133
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'CN', 'CN', 'CN', 'CHO', 'NH2']
+Positions: 1=NH2, 2=CN, 3=CN, 4=CN, 5=CHO, 6=NH2
+
+Énergies:
+  HOMO: -0.17996 Ha
+  LUMO: -0.03192 Ha
+  GAP:  4.02838 eV
+
+Matrice des distances entre substituants:
+        CHO    CN    CN    CN   NH2   NH2
+CHO       0     3     2     1     2     1
+ CN       3     0     1     2     1     2
+ CN       2     1     0     1     2     3
+ CN       1     2     1     0     3     2
+NH2       2     1     2     3     0     1
+NH2       1     2     3     2     1     0
+
+ÉTAPE 134
+--------------------------------------------------------------------------------
+Substituants: ['F', 'H', 'F', 'NO2', 'OH', 'CN']
+Positions: 1=F, 2=H, 3=F, 4=NO2, 5=OH, 6=CN
+
+Énergies:
+  HOMO: -0.20990 Ha
+  LUMO: -0.09809 Ha
+  GAP:  3.04251 eV
+
+Matrice des distances entre substituants:
+         CN     F     F     H   NO2    OH
+ CN       0     1     3     2     2     1
+  F       1     0     2     1     3     2
+  F       3     2     0     1     1     2
+  H       2     1     1     0     2     3
+NO2       2     3     1     2     0     1
+ OH       1     2     2     3     1     0
+
+ÉTAPE 135
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'CHCH2', 'NO2', 'F', 'CHO', 'CHCH2']
+Positions: 1=NH2, 2=CHCH2, 3=NO2, 4=F, 5=CHO, 6=CHCH2
+
+Énergies:
+  HOMO: -0.27846 Ha
+  LUMO: -0.11973 Ha
+  GAP:  4.31927 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   CHO     F   NH2   NO2
+CHCH2       0     2     3     2     1     1
+CHCH2       2     0     1     2     1     3
+  CHO       3     1     0     1     2     2
+    F       2     2     1     0     3     1
+  NH2       1     1     2     3     0     2
+  NO2       1     3     2     1     2     0
+
+ÉTAPE 136
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'NO2', 'CHCH2', 'CH3', 'NO2', 'OH']
+Positions: 1=CN, 2=NO2, 3=CHCH2, 4=CH3, 5=NO2, 6=OH
+
+Énergies:
+  HOMO: -0.32845 Ha
+  LUMO: -0.15084 Ha
+  GAP:  4.83302 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2    CN   NO2   NO2    OH
+  CH3       0     1     3     2     1     2
+CHCH2       1     0     2     1     2     3
+   CN       3     2     0     1     2     1
+  NO2       2     1     1     0     3     2
+  NO2       1     2     2     3     0     1
+   OH       2     3     1     2     1     0
+
+ÉTAPE 137
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'OH', 'CHCH2', 'F', 'CHCH2', 'H']
+Positions: 1=CN, 2=OH, 3=CHCH2, 4=F, 5=CHCH2, 6=H
+
+Énergies:
+  HOMO: -0.22012 Ha
+  LUMO: -0.05209 Ha
+  GAP:  4.57233 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2    CN     F     H    OH
+CHCH2       0     2     2     1     3     1
+CHCH2       2     0     2     1     1     3
+   CN       2     2     0     3     1     1
+    F       1     1     3     0     2     2
+    H       3     1     1     2     0     2
+   OH       1     3     1     2     2     0
+
+ÉTAPE 138
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'CHO', 'CHCH2', 'OH', 'CH3', 'NH2']
+Positions: 1=CN, 2=CHO, 3=CHCH2, 4=OH, 5=CH3, 6=NH2
+
+Énergies:
+  HOMO: -0.23980 Ha
+  LUMO: -0.07888 Ha
+  GAP:  4.37886 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO    CN   NH2    OH
+  CH3       0     2     3     2     1     1
+CHCH2       2     0     1     2     3     1
+  CHO       3     1     0     1     2     2
+   CN       2     2     1     0     1     3
+  NH2       1     3     2     1     0     2
+   OH       1     1     2     3     2     0
+
+ÉTAPE 139
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'H', 'F', 'OH', 'CH3', 'CH3']
+Positions: 1=NO2, 2=H, 3=F, 4=OH, 5=CH3, 6=CH3
+
+Énergies:
+  HOMO: -0.20769 Ha
+  LUMO: -0.04863 Ha
+  GAP:  4.32825 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3     F     H   NO2    OH
+CH3       0     1     2     3     2     1
+CH3       1     0     3     2     1     2
+  F       2     3     0     1     2     1
+  H       3     2     1     0     1     2
+NO2       2     1     2     1     0     3
+ OH       1     2     1     2     3     0
+
+ÉTAPE 140
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'CHCH2', 'CN', 'NH2', 'NH2', 'OH']
+Positions: 1=CHCH2, 2=CHCH2, 3=CN, 4=NH2, 5=NH2, 6=OH
+
+Énergies:
+  HOMO: -0.24168 Ha
+  LUMO: -0.10151 Ha
+  GAP:  3.81422 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2    CN   NH2   NH2    OH
+CHCH2       0     1     2     3     2     1
+CHCH2       1     0     1     2     3     2
+   CN       2     1     0     1     2     3
+  NH2       3     2     1     0     1     2
+  NH2       2     3     2     1     0     1
+   OH       1     2     3     2     1     0
+
+ÉTAPE 141
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'F', 'H', 'NO2', 'OH', 'CHO']
+Positions: 1=CH3, 2=F, 3=H, 4=NO2, 5=OH, 6=CHO
+
+Énergies:
+  HOMO: -0.22952 Ha
+  LUMO: -0.08083 Ha
+  GAP:  4.04606 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO     F     H   NO2    OH
+CH3       0     1     1     2     3     2
+CHO       1     0     2     3     2     1
+  F       1     2     0     1     2     3
+  H       2     3     1     0     1     2
+NO2       3     2     2     1     0     1
+ OH       2     1     3     2     1     0
+
+ÉTAPE 142
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'CH3', 'NH2', 'CHO', 'CH3', 'H']
+Positions: 1=NH2, 2=CH3, 3=NH2, 4=CHO, 5=CH3, 6=H
+
+Énergies:
+  HOMO: -0.28170 Ha
+  LUMO: -0.10963 Ha
+  GAP:  4.68227 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3   CHO     H   NH2   NH2
+CH3       0     3     2     2     1     1
+CH3       3     0     1     1     2     2
+CHO       2     1     0     2     3     1
+  H       2     1     2     0     1     3
+NH2       1     2     3     1     0     2
+NH2       1     2     1     3     2     0
+
+ÉTAPE 143
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'OH', 'CHCH2', 'NO2', 'CN', 'CH3']
+Positions: 1=CHO, 2=OH, 3=CHCH2, 4=NO2, 5=CN, 6=CH3
+
+Énergies:
+  HOMO: -0.25754 Ha
+  LUMO: -0.09664 Ha
+  GAP:  4.37831 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO    CN   NO2    OH
+  CH3       0     3     1     1     2     2
+CHCH2       3     0     2     2     1     1
+  CHO       1     2     0     2     3     1
+   CN       1     2     2     0     1     3
+  NO2       2     1     3     1     0     2
+   OH       2     1     1     3     2     0
+
+ÉTAPE 144
+--------------------------------------------------------------------------------
+Substituants: ['H', 'CHO', 'CH3', 'CHCH2', 'NO2', 'CH3']
+Positions: 1=H, 2=CHO, 3=CH3, 4=CHCH2, 5=NO2, 6=CH3
+
+Énergies:
+  HOMO: -0.22503 Ha
+  LUMO: -0.08129 Ha
+  GAP:  3.91137 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2   CHO     H   NO2
+  CH3       0     3     1     1     2     2
+  CH3       3     0     2     2     1     1
+CHCH2       1     2     0     2     3     1
+  CHO       1     2     2     0     1     3
+    H       2     1     3     1     0     2
+  NO2       2     1     1     3     2     0
+
+ÉTAPE 145
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'F', 'NO2', 'CH3', 'CH3', 'NH2']
+Positions: 1=CH3, 2=F, 3=NO2, 4=CH3, 5=CH3, 6=NH2
+
+Énergies:
+  HOMO: -0.21510 Ha
+  LUMO: -0.03768 Ha
+  GAP:  4.82785 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3   CH3     F   NH2   NO2
+CH3       0     3     2     1     1     2
+CH3       3     0     1     2     2     1
+CH3       2     1     0     3     1     2
+  F       1     2     3     0     2     1
+NH2       1     2     1     2     0     3
+NO2       2     1     2     1     3     0
+
+ÉTAPE 146
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'CN', 'H', 'NO2', 'F', 'CN']
+Positions: 1=NO2, 2=CN, 3=H, 4=NO2, 5=F, 6=CN
+
+Énergies:
+  HOMO: -0.23796 Ha
+  LUMO: -0.03202 Ha
+  GAP:  5.60392 eV
+
+Matrice des distances entre substituants:
+         CN    CN     F     H   NO2   NO2
+ CN       0     2     3     1     1     2
+ CN       2     0     1     3     1     2
+  F       3     1     0     2     2     1
+  H       1     3     2     0     2     1
+NO2       1     1     2     2     0     3
+NO2       2     2     1     1     3     0
+
+ÉTAPE 147
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'CHO', 'CHCH2', 'OH', 'CH3', 'NO2']
+Positions: 1=CN, 2=CHO, 3=CHCH2, 4=OH, 5=CH3, 6=NO2
+
+Énergies:
+  HOMO: -0.22782 Ha
+  LUMO: -0.08004 Ha
+  GAP:  4.02130 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO    CN   NO2    OH
+  CH3       0     2     3     2     1     1
+CHCH2       2     0     1     2     3     1
+  CHO       3     1     0     1     2     2
+   CN       2     2     1     0     1     3
+  NO2       1     3     2     1     0     2
+   OH       1     1     2     3     2     0
+
+ÉTAPE 148
+--------------------------------------------------------------------------------
+Substituants: ['F', 'NO2', 'CHCH2', 'CH3', 'NO2', 'CHCH2']
+Positions: 1=F, 2=NO2, 3=CHCH2, 4=CH3, 5=NO2, 6=CHCH2
+
+Énergies:
+  HOMO: -0.26600 Ha
+  LUMO: -0.12276 Ha
+  GAP:  3.89776 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2 CHCH2     F   NO2   NO2
+  CH3       0     1     2     3     2     1
+CHCH2       1     0     3     2     1     2
+CHCH2       2     3     0     1     2     1
+    F       3     2     1     0     1     2
+  NO2       2     1     2     1     0     3
+  NO2       1     2     1     2     3     0
+
+ÉTAPE 149
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'H', 'CHCH2', 'CHO', 'CHO', 'OH']
+Positions: 1=NO2, 2=H, 3=CHCH2, 4=CHO, 5=CHO, 6=OH
+
+Énergies:
+  HOMO: -0.20616 Ha
+  LUMO: -0.08606 Ha
+  GAP:  3.26809 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO   CHO     H   NO2    OH
+CHCH2       0     1     2     1     2     3
+  CHO       1     0     1     2     3     2
+  CHO       2     1     0     3     2     1
+    H       1     2     3     0     1     2
+  NO2       2     3     2     1     0     1
+   OH       3     2     1     2     1     0
+
+ÉTAPE 150
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'NH2', 'CHO', 'H', 'OH', 'OH']
+Positions: 1=CN, 2=NH2, 3=CHO, 4=H, 5=OH, 6=OH
+
+Énergies:
+  HOMO: -0.18939 Ha
+  LUMO: -0.01040 Ha
+  GAP:  4.87057 eV
+
+Matrice des distances entre substituants:
+        CHO    CN     H   NH2    OH    OH
+CHO       0     2     1     1     2     3
+ CN       2     0     3     1     2     1
+  H       1     3     0     2     1     2
+NH2       1     1     2     0     3     2
+ OH       2     2     1     3     0     1
+ OH       3     1     2     2     1     0
+
+ÉTAPE 151
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'CH3', 'CN', 'CHO', 'NO2', 'CN']
+Positions: 1=NH2, 2=CH3, 3=CN, 4=CHO, 5=NO2, 6=CN
+
+Énergies:
+  HOMO: -0.23136 Ha
+  LUMO: -0.04702 Ha
+  GAP:  5.01615 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO    CN    CN   NH2   NO2
+CH3       0     2     1     2     1     3
+CHO       2     0     1     2     3     1
+ CN       1     1     0     3     2     2
+ CN       2     2     3     0     1     1
+NH2       1     3     2     1     0     2
+NO2       3     1     2     1     2     0
+
+ÉTAPE 152
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'CHO', 'CN', 'CHCH2', 'CHO', 'F']
+Positions: 1=CH3, 2=CHO, 3=CN, 4=CHCH2, 5=CHO, 6=F
+
+Énergies:
+  HOMO: -0.31842 Ha
+  LUMO: -0.16490 Ha
+  GAP:  4.17749 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO   CHO    CN     F
+  CH3       0     3     1     2     2     1
+CHCH2       3     0     2     1     1     2
+  CHO       1     2     0     3     1     2
+  CHO       2     1     3     0     2     1
+   CN       2     1     1     2     0     3
+    F       1     2     2     1     3     0
+
+ÉTAPE 153
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'H', 'CHO', 'NH2', 'H', 'H']
+Positions: 1=CHCH2, 2=H, 3=CHO, 4=NH2, 5=H, 6=H
+
+Énergies:
+  HOMO: -0.27831 Ha
+  LUMO: -0.13277 Ha
+  GAP:  3.96035 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO     H     H     H   NH2
+CHCH2       0     2     1     2     1     3
+  CHO       2     0     1     2     3     1
+    H       1     1     0     3     2     2
+    H       2     2     3     0     1     1
+    H       1     3     2     1     0     2
+  NH2       3     1     2     1     2     0
+
+ÉTAPE 154
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'CH3', 'CHCH2', 'CH3', 'NO2', 'NH2']
+Positions: 1=OH, 2=CH3, 3=CHCH2, 4=CH3, 5=NO2, 6=NH2
+
+Énergies:
+  HOMO: -0.21966 Ha
+  LUMO: -0.06697 Ha
+  GAP:  4.15491 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2   NH2   NO2    OH
+  CH3       0     2     1     2     3     1
+  CH3       2     0     1     2     1     3
+CHCH2       1     1     0     3     2     2
+  NH2       2     2     3     0     1     1
+  NO2       3     1     2     1     0     2
+   OH       1     3     2     1     2     0
+
+ÉTAPE 155
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'NO2', 'NH2', 'OH', 'CHCH2', 'CH3']
+Positions: 1=OH, 2=NO2, 3=NH2, 4=OH, 5=CHCH2, 6=CH3
+
+Énergies:
+  HOMO: -0.23951 Ha
+  LUMO: -0.10783 Ha
+  GAP:  3.58320 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   NH2   NO2    OH    OH
+  CH3       0     1     3     2     1     2
+CHCH2       1     0     2     3     2     1
+  NH2       3     2     0     1     2     1
+  NO2       2     3     1     0     1     2
+   OH       1     2     2     1     0     3
+   OH       2     1     1     2     3     0
+
+ÉTAPE 156
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'CN', 'CN', 'CHO', 'CHCH2', 'CHO']
+Positions: 1=OH, 2=CN, 3=CN, 4=CHO, 5=CHCH2, 6=CHO
+
+Énergies:
+  HOMO: -0.20695 Ha
+  LUMO: -0.05225 Ha
+  GAP:  4.20960 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO   CHO    CN    CN    OH
+CHCH2       0     1     1     3     2     2
+  CHO       1     0     2     2     1     3
+  CHO       1     2     0     2     3     1
+   CN       3     2     2     0     1     1
+   CN       2     1     3     1     0     2
+   OH       2     3     1     1     2     0
+
+ÉTAPE 157
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'NO2', 'CHO', 'CN', 'H', 'CHCH2']
+Positions: 1=NH2, 2=NO2, 3=CHO, 4=CN, 5=H, 6=CHCH2
+
+Énergies:
+  HOMO: -0.24325 Ha
+  LUMO: -0.10939 Ha
+  GAP:  3.64252 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO    CN     H   NH2   NO2
+CHCH2       0     3     2     1     1     2
+  CHO       3     0     1     2     2     1
+   CN       2     1     0     1     3     2
+    H       1     2     1     0     2     3
+  NH2       1     2     3     2     0     1
+  NO2       2     1     2     3     1     0
+
+ÉTAPE 158
+--------------------------------------------------------------------------------
+Substituants: ['H', 'F', 'NH2', 'OH', 'F', 'NH2']
+Positions: 1=H, 2=F, 3=NH2, 4=OH, 5=F, 6=NH2
+
+Énergies:
+  HOMO: -0.19563 Ha
+  LUMO: -0.06596 Ha
+  GAP:  3.52850 eV
+
+Matrice des distances entre substituants:
+          F     F     H   NH2   NH2    OH
+  F       0     3     1     1     2     2
+  F       3     0     2     2     1     1
+  H       1     2     0     2     1     3
+NH2       1     2     2     0     3     1
+NH2       2     1     1     3     0     2
+ OH       2     1     3     1     2     0
+
+ÉTAPE 159
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'NH2', 'CHO', 'CHO', 'CN', 'CHCH2']
+Positions: 1=CH3, 2=NH2, 3=CHO, 4=CHO, 5=CN, 6=CHCH2
+
+Énergies:
+  HOMO: -0.24364 Ha
+  LUMO: -0.04735 Ha
+  GAP:  5.34133 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO   CHO    CN   NH2
+  CH3       0     1     2     3     2     1
+CHCH2       1     0     3     2     1     2
+  CHO       2     3     0     1     2     1
+  CHO       3     2     1     0     1     2
+   CN       2     1     2     1     0     3
+  NH2       1     2     1     2     3     0
+
+ÉTAPE 160
+--------------------------------------------------------------------------------
+Substituants: ['H', 'OH', 'CHCH2', 'CH3', 'F', 'CN']
+Positions: 1=H, 2=OH, 3=CHCH2, 4=CH3, 5=F, 6=CN
+
+Énergies:
+  HOMO: -0.24908 Ha
+  LUMO: -0.06338 Ha
+  GAP:  5.05316 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2    CN     F     H    OH
+  CH3       0     1     2     1     3     2
+CHCH2       1     0     3     2     2     1
+   CN       2     3     0     1     1     2
+    F       1     2     1     0     2     3
+    H       3     2     1     2     0     1
+   OH       2     1     2     3     1     0
+
+ÉTAPE 161
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'OH', 'CHO', 'CN', 'F', 'NH2']
+Positions: 1=NH2, 2=OH, 3=CHO, 4=CN, 5=F, 6=NH2
+
+Énergies:
+  HOMO: -0.22554 Ha
+  LUMO: -0.04239 Ha
+  GAP:  4.98377 eV
+
+Matrice des distances entre substituants:
+        CHO    CN     F   NH2   NH2    OH
+CHO       0     1     2     2     3     1
+ CN       1     0     1     3     2     2
+  F       2     1     0     2     1     3
+NH2       2     3     2     0     1     1
+NH2       3     2     1     1     0     2
+ OH       1     2     3     1     2     0
+
+ÉTAPE 162
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CHO', 'F', 'CH3', 'NH2', 'NO2']
+Positions: 1=F, 2=CHO, 3=F, 4=CH3, 5=NH2, 6=NO2
+
+Énergies:
+  HOMO: -0.22447 Ha
+  LUMO: -0.08234 Ha
+  GAP:  3.86756 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO     F     F   NH2   NO2
+CH3       0     2     3     1     1     2
+CHO       2     0     1     1     3     2
+  F       3     1     0     2     2     1
+  F       1     1     2     0     2     3
+NH2       1     3     2     2     0     1
+NO2       2     2     1     3     1     0
+
+ÉTAPE 163
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CH3', 'CHCH2', 'OH', 'CHCH2', 'OH']
+Positions: 1=CHO, 2=CH3, 3=CHCH2, 4=OH, 5=CHCH2, 6=OH
+
+Énergies:
+  HOMO: -0.26011 Ha
+  LUMO: -0.09893 Ha
+  GAP:  4.38593 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2 CHCH2   CHO    OH    OH
+  CH3       0     1     3     1     2     2
+CHCH2       1     0     2     2     1     3
+CHCH2       3     2     0     2     1     1
+  CHO       1     2     2     0     3     1
+   OH       2     1     1     3     0     2
+   OH       2     3     1     1     2     0
+
+ÉTAPE 164
+--------------------------------------------------------------------------------
+Substituants: ['H', 'CHO', 'NH2', 'H', 'OH', 'CHO']
+Positions: 1=H, 2=CHO, 3=NH2, 4=H, 5=OH, 6=CHO
+
+Énergies:
+  HOMO: -0.29394 Ha
+  LUMO: -0.11337 Ha
+  GAP:  4.91356 eV
+
+Matrice des distances entre substituants:
+        CHO   CHO     H     H   NH2    OH
+CHO       0     2     1     2     1     3
+CHO       2     0     1     2     3     1
+  H       1     1     0     3     2     2
+  H       2     2     3     0     1     1
+NH2       1     3     2     1     0     2
+ OH       3     1     2     1     2     0
+
+ÉTAPE 165
+--------------------------------------------------------------------------------
+Substituants: ['H', 'CH3', 'CHCH2', 'CN', 'CH3', 'NO2']
+Positions: 1=H, 2=CH3, 3=CHCH2, 4=CN, 5=CH3, 6=NO2
+
+Énergies:
+  HOMO: -0.27144 Ha
+  LUMO: -0.13780 Ha
+  GAP:  3.63653 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2    CN     H   NO2
+  CH3       0     3     1     2     1     2
+  CH3       3     0     2     1     2     1
+CHCH2       1     2     0     1     2     3
+   CN       2     1     1     0     3     2
+    H       1     2     2     3     0     1
+  NO2       2     1     3     2     1     0
+
+ÉTAPE 166
+--------------------------------------------------------------------------------
+Substituants: ['F', 'F', 'NH2', 'NO2', 'CHCH2', 'F']
+Positions: 1=F, 2=F, 3=NH2, 4=NO2, 5=CHCH2, 6=F
+
+Énergies:
+  HOMO: -0.21599 Ha
+  LUMO: -0.01134 Ha
+  GAP:  5.56881 eV
+
+Matrice des distances entre substituants:
+        CHCH2     F     F     F   NH2   NO2
+CHCH2       0     2     3     1     2     1
+    F       2     0     1     1     2     3
+    F       3     1     0     2     1     2
+    F       1     1     2     0     3     2
+  NH2       2     2     1     3     0     1
+  NO2       1     3     2     2     1     0
+
+ÉTAPE 167
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'CN', 'CH3', 'NH2', 'OH', 'NH2']
+Positions: 1=NH2, 2=CN, 3=CH3, 4=NH2, 5=OH, 6=NH2
+
+Énergies:
+  HOMO: -0.24431 Ha
+  LUMO: -0.08004 Ha
+  GAP:  4.47002 eV
+
+Matrice des distances entre substituants:
+        CH3    CN   NH2   NH2   NH2    OH
+CH3       0     1     2     1     3     2
+ CN       1     0     1     2     2     3
+NH2       2     1     0     3     1     2
+NH2       1     2     3     0     2     1
+NH2       3     2     1     2     0     1
+ OH       2     3     2     1     1     0
+
+ÉTAPE 168
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CN', 'OH', 'H', 'OH', 'CN']
+Positions: 1=F, 2=CN, 3=OH, 4=H, 5=OH, 6=CN
+
+Énergies:
+  HOMO: -0.27931 Ha
+  LUMO: -0.12344 Ha
+  GAP:  4.24144 eV
+
+Matrice des distances entre substituants:
+        CN    CN     F     H    OH    OH
+CN       0     2     1     2     1     3
+CN       2     0     1     2     3     1
+ F       1     1     0     3     2     2
+ H       2     2     3     0     1     1
+OH       1     3     2     1     0     2
+OH       3     1     2     1     2     0
+
+ÉTAPE 169
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'NH2', 'CN', 'OH', 'CHCH2', 'CHCH2']
+Positions: 1=NO2, 2=NH2, 3=CN, 4=OH, 5=CHCH2, 6=CHCH2
+
+Énergies:
+  HOMO: -0.19405 Ha
+  LUMO: -0.01600 Ha
+  GAP:  4.84499 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2    CN   NH2   NO2    OH
+CHCH2       0     1     2     3     2     1
+CHCH2       1     0     3     2     1     2
+   CN       2     3     0     1     2     1
+  NH2       3     2     1     0     1     2
+  NO2       2     1     2     1     0     3
+   OH       1     2     1     2     3     0
+
+ÉTAPE 170
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'OH', 'CHO', 'H', 'CH3', 'CN']
+Positions: 1=CN, 2=OH, 3=CHO, 4=H, 5=CH3, 6=CN
+
+Énergies:
+  HOMO: -0.25748 Ha
+  LUMO: -0.08673 Ha
+  GAP:  4.64635 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO    CN    CN     H    OH
+CH3       0     2     2     1     1     3
+CHO       2     0     2     3     1     1
+ CN       2     2     0     1     3     1
+ CN       1     3     1     0     2     2
+  H       1     1     3     2     0     2
+ OH       3     1     1     2     2     0
+
+ÉTAPE 171
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'H', 'F', 'CHO', 'NH2', 'NH2']
+Positions: 1=CHCH2, 2=H, 3=F, 4=CHO, 5=NH2, 6=NH2
+
+Énergies:
+  HOMO: -0.22276 Ha
+  LUMO: -0.08739 Ha
+  GAP:  3.68361 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO     F     H   NH2   NH2
+CHCH2       0     3     2     1     2     1
+  CHO       3     0     1     2     1     2
+    F       2     1     0     1     2     3
+    H       1     2     1     0     3     2
+  NH2       2     1     2     3     0     1
+  NH2       1     2     3     2     1     0
+
+ÉTAPE 172
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'CHO', 'CN', 'NH2', 'CH3', 'NH2']
+Positions: 1=NH2, 2=CHO, 3=CN, 4=NH2, 5=CH3, 6=NH2
+
+Énergies:
+  HOMO: -0.26990 Ha
+  LUMO: -0.12067 Ha
+  GAP:  4.06076 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO    CN   NH2   NH2   NH2
+CH3       0     3     2     2     1     1
+CHO       3     0     1     1     2     2
+ CN       2     1     0     2     1     3
+NH2       2     1     2     0     3     1
+NH2       1     2     1     3     0     2
+NH2       1     2     3     1     2     0
+
+ÉTAPE 173
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'CN', 'F', 'CH3', 'NH2', 'NO2']
+Positions: 1=OH, 2=CN, 3=F, 4=CH3, 5=NH2, 6=NO2
+
+Énergies:
+  HOMO: -0.22096 Ha
+  LUMO: -0.02423 Ha
+  GAP:  5.35330 eV
+
+Matrice des distances entre substituants:
+        CH3    CN     F   NH2   NO2    OH
+CH3       0     2     1     1     2     3
+ CN       2     0     1     3     2     1
+  F       1     1     0     2     3     2
+NH2       1     3     2     0     1     2
+NO2       2     2     3     1     0     1
+ OH       3     1     2     2     1     0
+
+ÉTAPE 174
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CHO', 'NH2', 'NO2', 'NH2', 'NH2']
+Positions: 1=CHO, 2=CHO, 3=NH2, 4=NO2, 5=NH2, 6=NH2
+
+Énergies:
+  HOMO: -0.23113 Ha
+  LUMO: -0.07653 Ha
+  GAP:  4.20688 eV
+
+Matrice des distances entre substituants:
+        CHO   CHO   NH2   NH2   NH2   NO2
+CHO       0     1     2     2     1     3
+CHO       1     0     1     3     2     2
+NH2       2     1     0     2     3     1
+NH2       2     3     2     0     1     1
+NH2       1     2     3     1     0     2
+NO2       3     2     1     1     2     0
+
+ÉTAPE 175
+--------------------------------------------------------------------------------
+Substituants: ['H', 'NH2', 'CN', 'OH', 'H', 'CHCH2']
+Positions: 1=H, 2=NH2, 3=CN, 4=OH, 5=H, 6=CHCH2
+
+Énergies:
+  HOMO: -0.26185 Ha
+  LUMO: -0.10391 Ha
+  GAP:  4.29777 eV
+
+Matrice des distances entre substituants:
+        CHCH2    CN     H     H   NH2    OH
+CHCH2       0     3     1     1     2     2
+   CN       3     0     2     2     1     1
+    H       1     2     0     2     1     3
+    H       1     2     2     0     3     1
+  NH2       2     1     1     3     0     2
+   OH       2     1     3     1     2     0
+
+ÉTAPE 176
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'CHCH2', 'OH', 'CN', 'CH3', 'NO2']
+Positions: 1=CHCH2, 2=CHCH2, 3=OH, 4=CN, 5=CH3, 6=NO2
+
+Énergies:
+  HOMO: -0.25125 Ha
+  LUMO: -0.09741 Ha
+  GAP:  4.18620 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2 CHCH2    CN   NO2    OH
+  CH3       0     2     3     1     1     2
+CHCH2       2     0     1     3     1     2
+CHCH2       3     1     0     2     2     1
+   CN       1     3     2     0     2     1
+  NO2       1     1     2     2     0     3
+   OH       2     2     1     1     3     0
+
+ÉTAPE 177
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'F', 'CHCH2', 'CHCH2', 'CHO', 'CHCH2']
+Positions: 1=CHO, 2=F, 3=CHCH2, 4=CHCH2, 5=CHO, 6=CHCH2
+
+Énergies:
+  HOMO: -0.18750 Ha
+  LUMO: -0.07915 Ha
+  GAP:  2.94836 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2 CHCH2   CHO   CHO     F
+CHCH2       0     1     3     2     2     1
+CHCH2       1     0     2     3     1     2
+CHCH2       3     2     0     1     1     2
+  CHO       2     3     1     0     2     1
+  CHO       2     1     1     2     0     3
+    F       1     2     2     1     3     0
+
+ÉTAPE 178
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'CN', 'OH', 'CH3', 'CN', 'H']
+Positions: 1=NO2, 2=CN, 3=OH, 4=CH3, 5=CN, 6=H
+
+Énergies:
+  HOMO: -0.18611 Ha
+  LUMO: 0.04469 Ha
+  GAP:  6.28039 eV
+
+Matrice des distances entre substituants:
+        CH3    CN    CN     H   NO2    OH
+CH3       0     2     1     2     3     1
+ CN       2     0     3     2     1     1
+ CN       1     3     0     1     2     2
+  H       2     2     1     0     1     3
+NO2       3     1     2     1     0     2
+ OH       1     1     2     3     2     0
+
+ÉTAPE 179
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'CHO', 'OH', 'NO2', 'H', 'NH2']
+Positions: 1=OH, 2=CHO, 3=OH, 4=NO2, 5=H, 6=NH2
+
+Énergies:
+  HOMO: -0.24569 Ha
+  LUMO: -0.10884 Ha
+  GAP:  3.72388 eV
+
+Matrice des distances entre substituants:
+        CHO     H   NH2   NO2    OH    OH
+CHO       0     3     2     2     1     1
+  H       3     0     1     1     2     2
+NH2       2     1     0     2     1     3
+NO2       2     1     2     0     3     1
+ OH       1     2     1     3     0     2
+ OH       1     2     3     1     2     0
+
+ÉTAPE 180
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'F', 'NH2', 'CHCH2', 'CHCH2', 'CHCH2']
+Positions: 1=CN, 2=F, 3=NH2, 4=CHCH2, 5=CHCH2, 6=CHCH2
+
+Énergies:
+  HOMO: -0.22950 Ha
+  LUMO: -0.12234 Ha
+  GAP:  2.91597 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2 CHCH2    CN     F   NH2
+CHCH2       0     1     2     3     2     1
+CHCH2       1     0     1     2     3     2
+CHCH2       2     1     0     1     2     3
+   CN       3     2     1     0     1     2
+    F       2     3     2     1     0     1
+  NH2       1     2     3     2     1     0
+
+ÉTAPE 181
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'CH3', 'NO2', 'CHCH2', 'CHCH2', 'F']
+Positions: 1=OH, 2=CH3, 3=NO2, 4=CHCH2, 5=CHCH2, 6=F
+
+Énergies:
+  HOMO: -0.24820 Ha
+  LUMO: -0.08855 Ha
+  GAP:  4.34430 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2 CHCH2     F   NO2    OH
+  CH3       0     2     3     2     1     1
+CHCH2       2     0     1     2     1     3
+CHCH2       3     1     0     1     2     2
+    F       2     2     1     0     3     1
+  NO2       1     1     2     3     0     2
+   OH       1     3     2     1     2     0
+
+ÉTAPE 182
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CH3', 'OH', 'CH3', 'CH3', 'NO2']
+Positions: 1=CHO, 2=CH3, 3=OH, 4=CH3, 5=CH3, 6=NO2
+
+Énergies:
+  HOMO: -0.22722 Ha
+  LUMO: -0.06930 Ha
+  GAP:  4.29722 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3   CH3   CHO   NO2    OH
+CH3       0     2     3     1     2     1
+CH3       2     0     1     3     2     1
+CH3       3     1     0     2     1     2
+CHO       1     3     2     0     1     2
+NO2       2     2     1     1     0     3
+ OH       1     1     2     2     3     0
+
+ÉTAPE 183
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'NH2', 'CH3', 'NO2', 'CH3', 'CH3']
+Positions: 1=OH, 2=NH2, 3=CH3, 4=NO2, 5=CH3, 6=CH3
+
+Énergies:
+  HOMO: -0.27566 Ha
+  LUMO: -0.07257 Ha
+  GAP:  5.52636 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3   CH3   NH2   NO2    OH
+CH3       0     2     3     1     1     2
+CH3       2     0     1     3     1     2
+CH3       3     1     0     2     2     1
+NH2       1     3     2     0     2     1
+NO2       1     1     2     2     0     3
+ OH       2     2     1     1     3     0
+
+ÉTAPE 184
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'CN', 'CHO', 'F', 'CN', 'CHO']
+Positions: 1=CN, 2=CN, 3=CHO, 4=F, 5=CN, 6=CHO
+
+Énergies:
+  HOMO: -0.20609 Ha
+  LUMO: -0.01487 Ha
+  GAP:  5.20336 eV
+
+Matrice des distances entre substituants:
+        CHO   CHO    CN    CN    CN     F
+CHO       0     3     2     1     2     1
+CHO       3     0     1     2     1     2
+ CN       2     1     0     1     2     3
+ CN       1     2     1     0     3     2
+ CN       2     1     2     3     0     1
+  F       1     2     3     2     1     0
+
+ÉTAPE 185
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CHO', 'CHCH2', 'F', 'OH', 'NH2']
+Positions: 1=CHO, 2=CHO, 3=CHCH2, 4=F, 5=OH, 6=NH2
+
+Énergies:
+  HOMO: -0.29135 Ha
+  LUMO: -0.11240 Ha
+  GAP:  4.86948 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO   CHO     F   NH2    OH
+CHCH2       0     2     1     1     3     2
+  CHO       2     0     1     3     1     2
+  CHO       1     1     0     2     2     3
+    F       1     3     2     0     2     1
+  NH2       3     1     2     2     0     1
+   OH       2     2     3     1     1     0
+
+ÉTAPE 186
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'NH2', 'CN', 'NH2', 'F', 'CHO']
+Positions: 1=NO2, 2=NH2, 3=CN, 4=NH2, 5=F, 6=CHO
+
+Énergies:
+  HOMO: -0.17838 Ha
+  LUMO: 0.03843 Ha
+  GAP:  5.89970 eV
+
+Matrice des distances entre substituants:
+        CHO    CN     F   NH2   NH2   NO2
+CHO       0     3     1     2     2     1
+ CN       3     0     2     1     1     2
+  F       1     2     0     3     1     2
+NH2       2     1     3     0     2     1
+NH2       2     1     1     2     0     3
+NO2       1     2     2     1     3     0
+
+ÉTAPE 187
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CHCH2', 'CH3', 'CHCH2', 'F', 'F']
+Positions: 1=F, 2=CHCH2, 3=CH3, 4=CHCH2, 5=F, 6=F
+
+Énergies:
+  HOMO: -0.27152 Ha
+  LUMO: -0.10857 Ha
+  GAP:  4.43410 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2 CHCH2     F     F     F
+  CH3       0     1     1     2     2     3
+CHCH2       1     0     2     1     3     2
+CHCH2       1     2     0     3     1     2
+    F       2     1     3     0     2     1
+    F       2     3     1     2     0     1
+    F       3     2     2     1     1     0
+
+ÉTAPE 188
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CHCH2', 'F', 'CN', 'F', 'OH']
+Positions: 1=CHO, 2=CHCH2, 3=F, 4=CN, 5=F, 6=OH
+
+Énergies:
+  HOMO: -0.23483 Ha
+  LUMO: -0.09945 Ha
+  GAP:  3.68388 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO    CN     F     F    OH
+CHCH2       0     1     2     1     3     2
+  CHO       1     0     3     2     2     1
+   CN       2     3     0     1     1     2
+    F       1     2     1     0     2     3
+    F       3     2     1     2     0     1
+   OH       2     1     2     3     1     0
+
+ÉTAPE 189
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'OH', 'CH3', 'CHO', 'OH', 'H']
+Positions: 1=CH3, 2=OH, 3=CH3, 4=CHO, 5=OH, 6=H
+
+Énergies:
+  HOMO: -0.21548 Ha
+  LUMO: -0.04036 Ha
+  GAP:  4.76526 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3   CHO     H    OH    OH
+CH3       0     2     3     1     1     2
+CH3       2     0     1     3     1     2
+CHO       3     1     0     2     2     1
+  H       1     3     2     0     2     1
+ OH       1     1     2     2     0     3
+ OH       2     2     1     1     3     0
+
+ÉTAPE 190
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'CN', 'F', 'H', 'NO2', 'CHCH2']
+Positions: 1=CHCH2, 2=CN, 3=F, 4=H, 5=NO2, 6=CHCH2
+
+Énergies:
+  HOMO: -0.27913 Ha
+  LUMO: -0.10505 Ha
+  GAP:  4.73696 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2    CN     F     H   NO2
+CHCH2       0     1     1     2     3     2
+CHCH2       1     0     2     3     2     1
+   CN       1     2     0     1     2     3
+    F       2     3     1     0     1     2
+    H       3     2     2     1     0     1
+  NO2       2     1     3     2     1     0
+
+ÉTAPE 191
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'NO2', 'NH2', 'NO2', 'CN', 'F']
+Positions: 1=CH3, 2=NO2, 3=NH2, 4=NO2, 5=CN, 6=F
+
+Énergies:
+  HOMO: -0.22263 Ha
+  LUMO: -0.07456 Ha
+  GAP:  4.02919 eV
+
+Matrice des distances entre substituants:
+        CH3    CN     F   NH2   NO2   NO2
+CH3       0     2     1     2     1     3
+ CN       2     0     1     2     3     1
+  F       1     1     0     3     2     2
+NH2       2     2     3     0     1     1
+NO2       1     3     2     1     0     2
+NO2       3     1     2     1     2     0
+
+ÉTAPE 192
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'OH', 'CN', 'OH', 'NH2', 'H']
+Positions: 1=CHO, 2=OH, 3=CN, 4=OH, 5=NH2, 6=H
+
+Énergies:
+  HOMO: -0.26614 Ha
+  LUMO: -0.11623 Ha
+  GAP:  4.07926 eV
+
+Matrice des distances entre substituants:
+        CHO    CN     H   NH2    OH    OH
+CHO       0     2     1     2     1     3
+ CN       2     0     3     2     1     1
+  H       1     3     0     1     2     2
+NH2       2     2     1     0     3     1
+ OH       1     1     2     3     0     2
+ OH       3     1     2     1     2     0
+
+ÉTAPE 193
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'CHCH2', 'NH2', 'CHCH2', 'NH2', 'H']
+Positions: 1=NH2, 2=CHCH2, 3=NH2, 4=CHCH2, 5=NH2, 6=H
+
+Énergies:
+  HOMO: -0.20691 Ha
+  LUMO: -0.02642 Ha
+  GAP:  4.91139 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2     H   NH2   NH2   NH2
+CHCH2       0     2     2     1     1     3
+CHCH2       2     0     2     3     1     1
+    H       2     2     0     1     3     1
+  NH2       1     3     1     0     2     2
+  NH2       1     1     3     2     0     2
+  NH2       3     1     1     2     2     0
+
+ÉTAPE 194
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'NO2', 'NO2', 'CHO', 'CN', 'CN']
+Positions: 1=CHCH2, 2=NO2, 3=NO2, 4=CHO, 5=CN, 6=CN
+
+Énergies:
+  HOMO: -0.24361 Ha
+  LUMO: -0.05325 Ha
+  GAP:  5.17996 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO    CN    CN   NO2   NO2
+CHCH2       0     3     2     1     1     2
+  CHO       3     0     1     2     2     1
+   CN       2     1     0     1     3     2
+   CN       1     2     1     0     2     3
+  NO2       1     2     3     2     0     1
+  NO2       2     1     2     3     1     0
+
+ÉTAPE 195
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'NH2', 'NH2', 'CN', 'CHCH2', 'CH3']
+Positions: 1=CHO, 2=NH2, 3=NH2, 4=CN, 5=CHCH2, 6=CH3
+
+Énergies:
+  HOMO: -0.17670 Ha
+  LUMO: 0.02957 Ha
+  GAP:  5.61290 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO    CN   NH2   NH2
+  CH3       0     1     1     2     2     3
+CHCH2       1     0     2     1     3     2
+  CHO       1     2     0     3     1     2
+   CN       2     1     3     0     2     1
+  NH2       2     3     1     2     0     1
+  NH2       3     2     2     1     1     0
+
+ÉTAPE 196
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'NO2', 'H', 'NH2', 'NO2', 'NO2']
+Positions: 1=NH2, 2=NO2, 3=H, 4=NH2, 5=NO2, 6=NO2
+
+Énergies:
+  HOMO: -0.20214 Ha
+  LUMO: 0.01731 Ha
+  GAP:  5.97154 eV
+
+Matrice des distances entre substituants:
+          H   NH2   NH2   NO2   NO2   NO2
+  H       0     2     1     1     2     3
+NH2       2     0     3     1     2     1
+NH2       1     3     0     2     1     2
+NO2       1     1     2     0     3     2
+NO2       2     2     1     3     0     1
+NO2       3     1     2     2     1     0
+
+ÉTAPE 197
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'CHCH2', 'CHCH2', 'CH3', 'CN', 'CHCH2']
+Positions: 1=NH2, 2=CHCH2, 3=CHCH2, 4=CH3, 5=CN, 6=CHCH2
+
+Énergies:
+  HOMO: -0.28416 Ha
+  LUMO: -0.10839 Ha
+  GAP:  4.78295 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2 CHCH2 CHCH2    CN   NH2
+  CH3       0     2     1     2     1     3
+CHCH2       2     0     1     2     3     1
+CHCH2       1     1     0     3     2     2
+CHCH2       2     2     3     0     1     1
+   CN       1     3     2     1     0     2
+  NH2       3     1     2     1     2     0
+
+ÉTAPE 198
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'NO2', 'OH', 'OH', 'CHO', 'CHO']
+Positions: 1=CHCH2, 2=NO2, 3=OH, 4=OH, 5=CHO, 6=CHO
+
+Énergies:
+  HOMO: -0.25320 Ha
+  LUMO: -0.06993 Ha
+  GAP:  4.98703 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO   CHO   NO2    OH    OH
+CHCH2       0     2     1     1     2     3
+  CHO       2     0     1     3     2     1
+  CHO       1     1     0     2     3     2
+  NO2       1     3     2     0     1     2
+   OH       2     2     3     1     0     1
+   OH       3     1     2     2     1     0
+
+ÉTAPE 199
+--------------------------------------------------------------------------------
+Substituants: ['F', 'H', 'NO2', 'CH3', 'OH', 'CHCH2']
+Positions: 1=F, 2=H, 3=NO2, 4=CH3, 5=OH, 6=CHCH2
+
+Énergies:
+  HOMO: -0.24407 Ha
+  LUMO: -0.06914 Ha
+  GAP:  4.76009 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2     F     H   NO2    OH
+  CH3       0     2     3     2     1     1
+CHCH2       2     0     1     2     3     1
+    F       3     1     0     1     2     2
+    H       2     2     1     0     1     3
+  NO2       1     3     2     1     0     2
+   OH       1     1     2     3     2     0
+
+ÉTAPE 200
+--------------------------------------------------------------------------------
+Substituants: ['H', 'CHCH2', 'NO2', 'CH3', 'CH3', 'H']
+Positions: 1=H, 2=CHCH2, 3=NO2, 4=CH3, 5=CH3, 6=H
+
+Énergies:
+  HOMO: -0.24898 Ha
+  LUMO: -0.07381 Ha
+  GAP:  4.76662 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2     H     H   NO2
+  CH3       0     1     2     3     2     1
+  CH3       1     0     3     2     1     2
+CHCH2       2     3     0     1     2     1
+    H       3     2     1     0     1     2
+    H       2     1     2     1     0     3
+  NO2       1     2     1     2     3     0
+
+ÉTAPE 201
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'CHO', 'H', 'CN', 'H', 'NO2']
+Positions: 1=NH2, 2=CHO, 3=H, 4=CN, 5=H, 6=NO2
+
+Énergies:
+  HOMO: -0.24369 Ha
+  LUMO: -0.12048 Ha
+  GAP:  3.35272 eV
+
+Matrice des distances entre substituants:
+        CHO    CN     H     H   NH2   NO2
+CHO       0     2     1     3     1     2
+ CN       2     0     1     1     3     2
+  H       1     1     0     2     2     3
+  H       3     1     2     0     2     1
+NH2       1     3     2     2     0     1
+NO2       2     2     3     1     1     0
+
+ÉTAPE 202
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'NH2', 'NO2', 'F', 'CHCH2', 'CN']
+Positions: 1=CHO, 2=NH2, 3=NO2, 4=F, 5=CHCH2, 6=CN
+
+Énergies:
+  HOMO: -0.23732 Ha
+  LUMO: -0.02962 Ha
+  GAP:  5.65181 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO    CN     F   NH2   NO2
+CHCH2       0     2     1     1     3     2
+  CHO       2     0     1     3     1     2
+   CN       1     1     0     2     2     3
+    F       1     3     2     0     2     1
+  NH2       3     1     2     2     0     1
+  NO2       2     2     3     1     1     0
+
+ÉTAPE 203
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'NH2', 'H', 'CHO', 'CHO', 'CH3']
+Positions: 1=OH, 2=NH2, 3=H, 4=CHO, 5=CHO, 6=CH3
+
+Énergies:
+  HOMO: -0.25669 Ha
+  LUMO: -0.11455 Ha
+  GAP:  3.86783 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO   CHO     H   NH2    OH
+CH3       0     2     1     3     2     1
+CHO       2     0     1     1     2     3
+CHO       1     1     0     2     3     2
+  H       3     1     2     0     1     2
+NH2       2     2     3     1     0     1
+ OH       1     3     2     2     1     0
+
+ÉTAPE 204
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'NH2', 'NO2', 'OH', 'OH', 'H']
+Positions: 1=OH, 2=NH2, 3=NO2, 4=OH, 5=OH, 6=H
+
+Énergies:
+  HOMO: -0.26391 Ha
+  LUMO: -0.08723 Ha
+  GAP:  4.80771 eV
+
+Matrice des distances entre substituants:
+          H   NH2   NO2    OH    OH    OH
+  H       0     2     3     1     2     1
+NH2       2     0     1     1     2     3
+NO2       3     1     0     2     1     2
+ OH       1     1     2     0     3     2
+ OH       2     2     1     3     0     1
+ OH       1     3     2     2     1     0
+
+ÉTAPE 205
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'CHO', 'CHCH2', 'CHCH2', 'H', 'F']
+Positions: 1=NH2, 2=CHO, 3=CHCH2, 4=CHCH2, 5=H, 6=F
+
+Énergies:
+  HOMO: -0.24693 Ha
+  LUMO: -0.07028 Ha
+  GAP:  4.80689 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   CHO     F     H   NH2
+CHCH2       0     1     1     3     2     2
+CHCH2       1     0     2     2     1     3
+  CHO       1     2     0     2     3     1
+    F       3     2     2     0     1     1
+    H       2     1     3     1     0     2
+  NH2       2     3     1     1     2     0
+
+ÉTAPE 206
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CN', 'H', 'F', 'CH3', 'OH']
+Positions: 1=CHO, 2=CN, 3=H, 4=F, 5=CH3, 6=OH
+
+Énergies:
+  HOMO: -0.28804 Ha
+  LUMO: -0.12388 Ha
+  GAP:  4.46702 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO    CN     F     H    OH
+CH3       0     2     3     1     2     1
+CHO       2     0     1     3     2     1
+ CN       3     1     0     2     1     2
+  F       1     3     2     0     1     2
+  H       2     2     1     1     0     3
+ OH       1     1     2     2     3     0
+
+ÉTAPE 207
+--------------------------------------------------------------------------------
+Substituants: ['H', 'F', 'NH2', 'CH3', 'CHO', 'NO2']
+Positions: 1=H, 2=F, 3=NH2, 4=CH3, 5=CHO, 6=NO2
+
+Énergies:
+  HOMO: -0.21724 Ha
+  LUMO: -0.09004 Ha
+  GAP:  3.46129 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO     F     H   NH2   NO2
+CH3       0     1     2     3     1     2
+CHO       1     0     3     2     2     1
+  F       2     3     0     1     1     2
+  H       3     2     1     0     2     1
+NH2       1     2     1     2     0     3
+NO2       2     1     2     1     3     0
+
+ÉTAPE 208
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'F', 'F', 'F', 'H', 'H']
+Positions: 1=CHO, 2=F, 3=F, 4=F, 5=H, 6=H
+
+Énergies:
+  HOMO: -0.23758 Ha
+  LUMO: -0.03670 Ha
+  GAP:  5.46623 eV
+
+Matrice des distances entre substituants:
+        CHO     F     F     F     H     H
+CHO       0     1     2     3     2     1
+  F       1     0     1     2     3     2
+  F       2     1     0     1     2     3
+  F       3     2     1     0     1     2
+  H       2     3     2     1     0     1
+  H       1     2     3     2     1     0
+
+ÉTAPE 209
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'CN', 'H', 'CHO', 'CH3', 'OH']
+Positions: 1=CN, 2=CN, 3=H, 4=CHO, 5=CH3, 6=OH
+
+Énergies:
+  HOMO: -0.19166 Ha
+  LUMO: -0.04254 Ha
+  GAP:  4.05776 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO    CN    CN     H    OH
+CH3       0     1     2     3     2     1
+CHO       1     0     3     2     1     2
+ CN       2     3     0     1     2     1
+ CN       3     2     1     0     1     2
+  H       2     1     2     1     0     3
+ OH       1     2     1     2     3     0
+
+ÉTAPE 210
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'CH3', 'CH3', 'F', 'CH3', 'CHCH2']
+Positions: 1=CHCH2, 2=CH3, 3=CH3, 4=F, 5=CH3, 6=CHCH2
+
+Énergies:
+  HOMO: -0.19307 Ha
+  LUMO: -0.00512 Ha
+  GAP:  5.11438 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3   CH3 CHCH2 CHCH2     F
+  CH3       0     1     3     1     2     2
+  CH3       1     0     2     2     3     1
+  CH3       3     2     0     2     1     1
+CHCH2       1     2     2     0     1     3
+CHCH2       2     3     1     1     0     2
+    F       2     1     1     3     2     0
+
+ÉTAPE 211
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'CN', 'NO2', 'H', 'CHCH2', 'CN']
+Positions: 1=OH, 2=CN, 3=NO2, 4=H, 5=CHCH2, 6=CN
+
+Énergies:
+  HOMO: -0.29535 Ha
+  LUMO: -0.12577 Ha
+  GAP:  4.61451 eV
+
+Matrice des distances entre substituants:
+        CHCH2    CN    CN     H   NO2    OH
+CHCH2       0     3     1     1     2     2
+   CN       3     0     2     2     1     1
+   CN       1     2     0     2     3     1
+    H       1     2     2     0     1     3
+  NO2       2     1     3     1     0     2
+   OH       2     1     1     3     2     0
+
+ÉTAPE 212
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'H', 'CHO', 'CHCH2', 'H', 'CHCH2']
+Positions: 1=CHO, 2=H, 3=CHO, 4=CHCH2, 5=H, 6=CHCH2
+
+Énergies:
+  HOMO: -0.21734 Ha
+  LUMO: -0.04386 Ha
+  GAP:  4.72063 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   CHO   CHO     H     H
+CHCH2       0     2     3     1     2     1
+CHCH2       2     0     1     3     2     1
+  CHO       3     1     0     2     1     2
+  CHO       1     3     2     0     1     2
+    H       2     2     1     1     0     3
+    H       1     1     2     2     3     0
+
+ÉTAPE 213
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'H', 'CN', 'CN', 'CHCH2', 'CHO']
+Positions: 1=NO2, 2=H, 3=CN, 4=CN, 5=CHCH2, 6=CHO
+
+Énergies:
+  HOMO: -0.23464 Ha
+  LUMO: -0.07330 Ha
+  GAP:  4.39029 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO    CN    CN     H   NO2
+CHCH2       0     1     2     1     3     2
+  CHO       1     0     3     2     2     1
+   CN       2     3     0     1     1     2
+   CN       1     2     1     0     2     3
+    H       3     2     1     2     0     1
+  NO2       2     1     2     3     1     0
+
+ÉTAPE 214
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'F', 'NO2', 'F', 'F', 'OH']
+Positions: 1=CHCH2, 2=F, 3=NO2, 4=F, 5=F, 6=OH
+
+Énergies:
+  HOMO: -0.24291 Ha
+  LUMO: -0.05236 Ha
+  GAP:  5.18513 eV
+
+Matrice des distances entre substituants:
+        CHCH2     F     F     F   NO2    OH
+CHCH2       0     1     3     2     2     1
+    F       1     0     2     3     1     2
+    F       3     2     0     1     1     2
+    F       2     3     1     0     2     1
+  NO2       2     1     1     2     0     3
+   OH       1     2     2     1     3     0
+
+ÉTAPE 215
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'CN', 'OH', 'OH', 'H', 'CN']
+Positions: 1=CN, 2=CN, 3=OH, 4=OH, 5=H, 6=CN
+
+Énergies:
+  HOMO: -0.24418 Ha
+  LUMO: -0.05626 Ha
+  GAP:  5.11357 eV
+
+Matrice des distances entre substituants:
+        CN    CN    CN     H    OH    OH
+CN       0     1     1     2     2     3
+CN       1     0     2     3     1     2
+CN       1     2     0     1     3     2
+ H       2     3     1     0     2     1
+OH       2     1     3     2     0     1
+OH       3     2     2     1     1     0
+
+ÉTAPE 216
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'NH2', 'H', 'NH2', 'F', 'H']
+Positions: 1=CN, 2=NH2, 3=H, 4=NH2, 5=F, 6=H
+
+Énergies:
+  HOMO: -0.24859 Ha
+  LUMO: -0.12193 Ha
+  GAP:  3.44660 eV
+
+Matrice des distances entre substituants:
+         CN     F     H     H   NH2   NH2
+ CN       0     2     2     1     1     3
+  F       2     0     2     1     3     1
+  H       2     2     0     3     1     1
+  H       1     1     3     0     2     2
+NH2       1     3     1     2     0     2
+NH2       3     1     1     2     2     0
+
+ÉTAPE 217
+--------------------------------------------------------------------------------
+Substituants: ['H', 'CHO', 'H', 'CN', 'CN', 'H']
+Positions: 1=H, 2=CHO, 3=H, 4=CN, 5=CN, 6=H
+
+Énergies:
+  HOMO: -0.21031 Ha
+  LUMO: -0.11206 Ha
+  GAP:  2.67352 eV
+
+Matrice des distances entre substituants:
+        CHO    CN    CN     H     H     H
+CHO       0     2     3     1     1     2
+ CN       2     0     1     3     1     2
+ CN       3     1     0     2     2     1
+  H       1     3     2     0     2     1
+  H       1     1     2     2     0     3
+  H       2     2     1     1     3     0
+
+ÉTAPE 218
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CN', 'F', 'H', 'H', 'H']
+Positions: 1=F, 2=CN, 3=F, 4=H, 5=H, 6=H
+
+Énergies:
+  HOMO: -0.26550 Ha
+  LUMO: -0.10407 Ha
+  GAP:  4.39274 eV
+
+Matrice des distances entre substituants:
+        CN     F     F     H     H     H
+CN       0     1     1     2     3     2
+ F       1     0     2     3     2     1
+ F       1     2     0     1     2     3
+ H       2     3     1     0     1     2
+ H       3     2     2     1     0     1
+ H       2     1     3     2     1     0
+
+ÉTAPE 219
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CH3', 'NH2', 'OH', 'CHCH2', 'CN']
+Positions: 1=CHO, 2=CH3, 3=NH2, 4=OH, 5=CHCH2, 6=CN
+
+Énergies:
+  HOMO: -0.22417 Ha
+  LUMO: -0.09732 Ha
+  GAP:  3.45177 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO    CN   NH2    OH
+  CH3       0     3     1     2     1     2
+CHCH2       3     0     2     1     2     1
+  CHO       1     2     0     1     2     3
+   CN       2     1     1     0     3     2
+  NH2       1     2     2     3     0     1
+   OH       2     1     3     2     1     0
+
+ÉTAPE 220
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'OH', 'CH3', 'CH3', 'CHCH2', 'CN']
+Positions: 1=CN, 2=OH, 3=CH3, 4=CH3, 5=CHCH2, 6=CN
+
+Énergies:
+  HOMO: -0.19754 Ha
+  LUMO: -0.00576 Ha
+  GAP:  5.21860 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2    CN    CN    OH
+  CH3       0     1     2     2     3     1
+  CH3       1     0     1     3     2     2
+CHCH2       2     1     0     2     1     3
+   CN       2     3     2     0     1     1
+   CN       3     2     1     1     0     2
+   OH       1     2     3     1     2     0
+
+ÉTAPE 221
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'CHO', 'OH', 'OH', 'CHCH2', 'CHCH2']
+Positions: 1=NO2, 2=CHO, 3=OH, 4=OH, 5=CHCH2, 6=CHCH2
+
+Énergies:
+  HOMO: -0.27109 Ha
+  LUMO: -0.08036 Ha
+  GAP:  5.19003 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   CHO   NO2    OH    OH
+CHCH2       0     1     3     2     2     1
+CHCH2       1     0     2     1     3     2
+  CHO       3     2     0     1     1     2
+  NO2       2     1     1     0     2     3
+   OH       2     3     1     2     0     1
+   OH       1     2     2     3     1     0
+
+ÉTAPE 222
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'CH3', 'OH', 'CHCH2', 'OH', 'F']
+Positions: 1=CN, 2=CH3, 3=OH, 4=CHCH2, 5=OH, 6=F
+
+Énergies:
+  HOMO: -0.32504 Ha
+  LUMO: -0.14167 Ha
+  GAP:  4.98975 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2    CN     F    OH    OH
+  CH3       0     2     1     2     1     3
+CHCH2       2     0     3     2     1     1
+   CN       1     3     0     1     2     2
+    F       2     2     1     0     3     1
+   OH       1     1     2     3     0     2
+   OH       3     1     2     1     2     0
+
+ÉTAPE 223
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'CHCH2', 'NH2', 'OH', 'CH3', 'NH2']
+Positions: 1=CH3, 2=CHCH2, 3=NH2, 4=OH, 5=CH3, 6=NH2
+
+Énergies:
+  HOMO: -0.26723 Ha
+  LUMO: -0.09058 Ha
+  GAP:  4.80689 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2   NH2   NH2    OH
+  CH3       0     2     1     2     1     3
+  CH3       2     0     3     2     1     1
+CHCH2       1     3     0     1     2     2
+  NH2       2     2     1     0     3     1
+  NH2       1     1     2     3     0     2
+   OH       3     1     2     1     2     0
+
+ÉTAPE 224
+--------------------------------------------------------------------------------
+Substituants: ['F', 'H', 'CH3', 'NO2', 'NH2', 'CN']
+Positions: 1=F, 2=H, 3=CH3, 4=NO2, 5=NH2, 6=CN
+
+Énergies:
+  HOMO: -0.27952 Ha
+  LUMO: -0.13357 Ha
+  GAP:  3.97150 eV
+
+Matrice des distances entre substituants:
+        CH3    CN     F     H   NH2   NO2
+CH3       0     3     2     1     2     1
+ CN       3     0     1     2     1     2
+  F       2     1     0     1     2     3
+  H       1     2     1     0     3     2
+NH2       2     1     2     3     0     1
+NO2       1     2     3     2     1     0
+
+ÉTAPE 225
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'CH3', 'NH2', 'F', 'CH3', 'NO2']
+Positions: 1=CH3, 2=CH3, 3=NH2, 4=F, 5=CH3, 6=NO2
+
+Énergies:
+  HOMO: -0.23869 Ha
+  LUMO: -0.10545 Ha
+  GAP:  3.62565 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3   CH3     F   NH2   NO2
+CH3       0     1     2     3     2     1
+CH3       1     0     3     2     1     2
+CH3       2     3     0     1     2     1
+  F       3     2     1     0     1     2
+NH2       2     1     2     1     0     3
+NO2       1     2     1     2     3     0
+
+ÉTAPE 226
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'CH3', 'CN', 'OH', 'OH', 'OH']
+Positions: 1=NO2, 2=CH3, 3=CN, 4=OH, 5=OH, 6=OH
+
+Énergies:
+  HOMO: -0.22985 Ha
+  LUMO: -0.07552 Ha
+  GAP:  4.19954 eV
+
+Matrice des distances entre substituants:
+        CH3    CN   NO2    OH    OH    OH
+CH3       0     1     1     2     3     2
+ CN       1     0     2     1     2     3
+NO2       1     2     0     3     2     1
+ OH       2     1     3     0     1     2
+ OH       3     2     2     1     0     1
+ OH       2     3     1     2     1     0
+
+ÉTAPE 227
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'CN', 'H', 'F', 'CHCH2', 'CH3']
+Positions: 1=CN, 2=CN, 3=H, 4=F, 5=CHCH2, 6=CH3
+
+Énergies:
+  HOMO: -0.28806 Ha
+  LUMO: -0.11340 Ha
+  GAP:  4.75274 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2    CN    CN     F     H
+  CH3       0     1     1     2     2     3
+CHCH2       1     0     2     3     1     2
+   CN       1     2     0     1     3     2
+   CN       2     3     1     0     2     1
+    F       2     1     3     2     0     1
+    H       3     2     2     1     1     0
+
+ÉTAPE 228
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'OH', 'NH2', 'CH3', 'F', 'CH3']
+Positions: 1=NH2, 2=OH, 3=NH2, 4=CH3, 5=F, 6=CH3
+
+Énergies:
+  HOMO: -0.20397 Ha
+  LUMO: -0.01917 Ha
+  GAP:  5.02867 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3     F   NH2   NH2    OH
+CH3       0     2     1     3     1     2
+CH3       2     0     1     1     3     2
+  F       1     1     0     2     2     3
+NH2       3     1     2     0     2     1
+NH2       1     3     2     2     0     1
+ OH       2     2     3     1     1     0
+
+ÉTAPE 229
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'NH2', 'NH2', 'CH3', 'CHCH2', 'OH']
+Positions: 1=CHO, 2=NH2, 3=NH2, 4=CH3, 5=CHCH2, 6=OH
+
+Énergies:
+  HOMO: -0.19462 Ha
+  LUMO: -0.06186 Ha
+  GAP:  3.61259 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO   NH2   NH2    OH
+  CH3       0     1     3     2     1     2
+CHCH2       1     0     2     3     2     1
+  CHO       3     2     0     1     2     1
+  NH2       2     3     1     0     1     2
+  NH2       1     2     2     1     0     3
+   OH       2     1     1     2     3     0
+
+ÉTAPE 230
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'CHCH2', 'F', 'CHO', 'OH', 'NH2']
+Positions: 1=NH2, 2=CHCH2, 3=F, 4=CHO, 5=OH, 6=NH2
+
+Énergies:
+  HOMO: -0.29962 Ha
+  LUMO: -0.12671 Ha
+  GAP:  4.70512 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO     F   NH2   NH2    OH
+CHCH2       0     2     1     1     2     3
+  CHO       2     0     1     3     2     1
+    F       1     1     0     2     3     2
+  NH2       1     3     2     0     1     2
+  NH2       2     2     3     1     0     1
+   OH       3     1     2     2     1     0
+
+ÉTAPE 231
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CHO', 'NH2', 'OH', 'CHCH2', 'NO2']
+Positions: 1=F, 2=CHO, 3=NH2, 4=OH, 5=CHCH2, 6=NO2
+
+Énergies:
+  HOMO: -0.16675 Ha
+  LUMO: 0.02124 Ha
+  GAP:  5.11547 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO     F   NH2   NO2    OH
+CHCH2       0     3     2     2     1     1
+  CHO       3     0     1     1     2     2
+    F       2     1     0     2     1     3
+  NH2       2     1     2     0     3     1
+  NO2       1     2     1     3     0     2
+   OH       1     2     3     1     2     0
+
+ÉTAPE 232
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'OH', 'CH3', 'CHO', 'NO2', 'NO2']
+Positions: 1=NH2, 2=OH, 3=CH3, 4=CHO, 5=NO2, 6=NO2
+
+Énergies:
+  HOMO: -0.22858 Ha
+  LUMO: -0.07331 Ha
+  GAP:  4.22511 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO   NH2   NO2   NO2    OH
+CH3       0     1     2     2     3     1
+CHO       1     0     3     1     2     2
+NH2       2     3     0     2     1     1
+NO2       2     1     2     0     1     3
+NO2       3     2     1     1     0     2
+ OH       1     2     1     3     2     0
+
+ÉTAPE 233
+--------------------------------------------------------------------------------
+Substituants: ['F', 'OH', 'OH', 'CN', 'H', 'CHCH2']
+Positions: 1=F, 2=OH, 3=OH, 4=CN, 5=H, 6=CHCH2
+
+Énergies:
+  HOMO: -0.29004 Ha
+  LUMO: -0.09896 Ha
+  GAP:  5.19955 eV
+
+Matrice des distances entre substituants:
+        CHCH2    CN     F     H    OH    OH
+CHCH2       0     2     1     1     2     3
+   CN       2     0     3     1     2     1
+    F       1     3     0     2     1     2
+    H       1     1     2     0     3     2
+   OH       2     2     1     3     0     1
+   OH       3     1     2     2     1     0
+
+ÉTAPE 234
+--------------------------------------------------------------------------------
+Substituants: ['H', 'CN', 'NH2', 'CN', 'CHCH2', 'CH3']
+Positions: 1=H, 2=CN, 3=NH2, 4=CN, 5=CHCH2, 6=CH3
+
+Énergies:
+  HOMO: -0.23783 Ha
+  LUMO: -0.05896 Ha
+  GAP:  4.86730 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2    CN    CN     H   NH2
+  CH3       0     1     2     2     1     3
+CHCH2       1     0     3     1     2     2
+   CN       2     3     0     2     1     1
+   CN       2     1     2     0     3     1
+    H       1     2     1     3     0     2
+  NH2       3     2     1     1     2     0
+
+ÉTAPE 235
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'CHCH2', 'H', 'CH3', 'F', 'CHO']
+Positions: 1=OH, 2=CHCH2, 3=H, 4=CH3, 5=F, 6=CHO
+
+Énergies:
+  HOMO: -0.27097 Ha
+  LUMO: -0.11569 Ha
+  GAP:  4.22539 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO     F     H    OH
+  CH3       0     2     2     1     1     3
+CHCH2       2     0     2     3     1     1
+  CHO       2     2     0     1     3     1
+    F       1     3     1     0     2     2
+    H       1     1     3     2     0     2
+   OH       3     1     1     2     2     0
+
+ÉTAPE 236
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'F', 'CHCH2', 'NH2', 'NH2', 'OH']
+Positions: 1=CH3, 2=F, 3=CHCH2, 4=NH2, 5=NH2, 6=OH
+
+Énergies:
+  HOMO: -0.21005 Ha
+  LUMO: -0.02870 Ha
+  GAP:  4.93479 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2     F   NH2   NH2    OH
+  CH3       0     2     1     3     2     1
+CHCH2       2     0     1     1     2     3
+    F       1     1     0     2     3     2
+  NH2       3     1     2     0     1     2
+  NH2       2     2     3     1     0     1
+   OH       1     3     2     2     1     0
+
+ÉTAPE 237
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'NO2', 'OH', 'NO2', 'NH2', 'F']
+Positions: 1=NH2, 2=NO2, 3=OH, 4=NO2, 5=NH2, 6=F
+
+Énergies:
+  HOMO: -0.22822 Ha
+  LUMO: -0.09898 Ha
+  GAP:  3.51680 eV
+
+Matrice des distances entre substituants:
+          F   NH2   NH2   NO2   NO2    OH
+  F       0     1     1     2     2     3
+NH2       1     0     2     1     3     2
+NH2       1     2     0     3     1     2
+NO2       2     1     3     0     2     1
+NO2       2     3     1     2     0     1
+ OH       3     2     2     1     1     0
+
+ÉTAPE 238
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'CHCH2', 'H', 'H', 'NO2', 'CN']
+Positions: 1=NH2, 2=CHCH2, 3=H, 4=H, 5=NO2, 6=CN
+
+Énergies:
+  HOMO: -0.22147 Ha
+  LUMO: -0.01826 Ha
+  GAP:  5.52963 eV
+
+Matrice des distances entre substituants:
+        CHCH2    CN     H     H   NH2   NO2
+CHCH2       0     2     1     2     1     3
+   CN       2     0     3     2     1     1
+    H       1     3     0     1     2     2
+    H       2     2     1     0     3     1
+  NH2       1     1     2     3     0     2
+  NO2       3     1     2     1     2     0
+
+ÉTAPE 239
+--------------------------------------------------------------------------------
+Substituants: ['F', 'H', 'CH3', 'CHCH2', 'OH', 'CHCH2']
+Positions: 1=F, 2=H, 3=CH3, 4=CHCH2, 5=OH, 6=CHCH2
+
+Énergies:
+  HOMO: -0.26456 Ha
+  LUMO: -0.09654 Ha
+  GAP:  4.57206 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2 CHCH2     F     H    OH
+  CH3       0     1     3     2     1     2
+CHCH2       1     0     2     3     2     1
+CHCH2       3     2     0     1     2     1
+    F       2     3     1     0     1     2
+    H       1     2     2     1     0     3
+   OH       2     1     1     2     3     0
+
+ÉTAPE 240
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'CHCH2', 'OH', 'CN', 'NO2', 'CHCH2']
+Positions: 1=NO2, 2=CHCH2, 3=OH, 4=CN, 5=NO2, 6=CHCH2
+
+Énergies:
+  HOMO: -0.27699 Ha
+  LUMO: -0.07399 Ha
+  GAP:  5.52391 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2    CN   NO2   NO2    OH
+CHCH2       0     2     2     1     3     1
+CHCH2       2     0     2     1     1     3
+   CN       2     2     0     3     1     1
+  NO2       1     1     3     0     2     2
+  NO2       3     1     1     2     0     2
+   OH       1     3     1     2     2     0
+
+ÉTAPE 241
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'CHCH2', 'CH3', 'H', 'CN', 'CHCH2']
+Positions: 1=CH3, 2=CHCH2, 3=CH3, 4=H, 5=CN, 6=CHCH2
+
+Énergies:
+  HOMO: -0.31709 Ha
+  LUMO: -0.15773 Ha
+  GAP:  4.33641 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2 CHCH2    CN     H
+  CH3       0     2     1     1     2     3
+  CH3       2     0     1     3     2     1
+CHCH2       1     1     0     2     3     2
+CHCH2       1     3     2     0     1     2
+   CN       2     2     3     1     0     1
+    H       3     1     2     2     1     0
+
+ÉTAPE 242
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'H', 'H', 'OH', 'NO2', 'H']
+Positions: 1=CH3, 2=H, 3=H, 4=OH, 5=NO2, 6=H
+
+Énergies:
+  HOMO: -0.22206 Ha
+  LUMO: -0.00778 Ha
+  GAP:  5.83086 eV
+
+Matrice des distances entre substituants:
+        CH3     H     H     H   NO2    OH
+CH3       0     1     2     1     2     3
+  H       1     0     1     2     3     2
+  H       2     1     0     3     2     1
+  H       1     2     3     0     1     2
+NO2       2     3     2     1     0     1
+ OH       3     2     1     2     1     0
+
+ÉTAPE 243
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'NH2', 'NH2', 'CHCH2', 'NO2', 'CHCH2']
+Positions: 1=OH, 2=NH2, 3=NH2, 4=CHCH2, 5=NO2, 6=CHCH2
+
+Énergies:
+  HOMO: -0.26853 Ha
+  LUMO: -0.10139 Ha
+  GAP:  4.54811 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   NH2   NH2   NO2    OH
+CHCH2       0     2     2     1     1     3
+CHCH2       2     0     2     3     1     1
+  NH2       2     2     0     1     3     1
+  NH2       1     3     1     0     2     2
+  NO2       1     1     3     2     0     2
+   OH       3     1     1     2     2     0
+
+ÉTAPE 244
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'H', 'CHCH2', 'OH', 'OH', 'F']
+Positions: 1=CHCH2, 2=H, 3=CHCH2, 4=OH, 5=OH, 6=F
+
+Énergies:
+  HOMO: -0.23657 Ha
+  LUMO: -0.08005 Ha
+  GAP:  4.25913 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2     F     H    OH    OH
+CHCH2       0     2     1     1     3     2
+CHCH2       2     0     3     1     1     2
+    F       1     3     0     2     2     1
+    H       1     1     2     0     2     3
+   OH       3     1     2     2     0     1
+   OH       2     2     1     3     1     0
+
+ÉTAPE 245
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'CHO', 'NH2', 'F', 'F', 'F']
+Positions: 1=CH3, 2=CHO, 3=NH2, 4=F, 5=F, 6=F
+
+Énergies:
+  HOMO: -0.24339 Ha
+  LUMO: -0.07935 Ha
+  GAP:  4.46376 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO     F     F     F   NH2
+CH3       0     1     3     2     1     2
+CHO       1     0     2     3     2     1
+  F       3     2     0     1     2     1
+  F       2     3     1     0     1     2
+  F       1     2     2     1     0     3
+NH2       2     1     1     2     3     0
+
+ÉTAPE 246
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CH3', 'NO2', 'NH2', 'NO2', 'CHCH2']
+Positions: 1=CHO, 2=CH3, 3=NO2, 4=NH2, 5=NO2, 6=CHCH2
+
+Énergies:
+  HOMO: -0.28821 Ha
+  LUMO: -0.13989 Ha
+  GAP:  4.03599 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO   NH2   NO2   NO2
+  CH3       0     2     1     2     1     3
+CHCH2       2     0     1     2     3     1
+  CHO       1     1     0     3     2     2
+  NH2       2     2     3     0     1     1
+  NO2       1     3     2     1     0     2
+  NO2       3     1     2     1     2     0
+
+ÉTAPE 247
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'OH', 'CHCH2', 'OH', 'CH3', 'OH']
+Positions: 1=CHCH2, 2=OH, 3=CHCH2, 4=OH, 5=CH3, 6=OH
+
+Énergies:
+  HOMO: -0.23701 Ha
+  LUMO: -0.02602 Ha
+  GAP:  5.74133 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2 CHCH2    OH    OH    OH
+  CH3       0     2     2     3     1     1
+CHCH2       2     0     2     1     3     1
+CHCH2       2     2     0     1     1     3
+   OH       3     1     1     0     2     2
+   OH       1     3     1     2     0     2
+   OH       1     1     3     2     2     0
+
+ÉTAPE 248
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'NO2', 'NH2', 'CH3', 'F', 'NO2']
+Positions: 1=CHCH2, 2=NO2, 3=NH2, 4=CH3, 5=F, 6=NO2
+
+Énergies:
+  HOMO: -0.16428 Ha
+  LUMO: 0.04633 Ha
+  GAP:  5.73099 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2     F   NH2   NO2   NO2
+  CH3       0     3     1     1     2     2
+CHCH2       3     0     2     2     1     1
+    F       1     2     0     2     3     1
+  NH2       1     2     2     0     1     3
+  NO2       2     1     3     1     0     2
+  NO2       2     1     1     3     2     0
+
+ÉTAPE 249
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CHO', 'CN', 'F', 'NH2', 'CH3']
+Positions: 1=F, 2=CHO, 3=CN, 4=F, 5=NH2, 6=CH3
+
+Énergies:
+  HOMO: -0.26128 Ha
+  LUMO: -0.10732 Ha
+  GAP:  4.18947 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO    CN     F     F   NH2
+CH3       0     2     3     1     2     1
+CHO       2     0     1     1     2     3
+ CN       3     1     0     2     1     2
+  F       1     1     2     0     3     2
+  F       2     2     1     3     0     1
+NH2       1     3     2     2     1     0
+
+ÉTAPE 250
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'CH3', 'F', 'H', 'CHO', 'CHO']
+Positions: 1=CHCH2, 2=CH3, 3=F, 4=H, 5=CHO, 6=CHO
+
+Énergies:
+  HOMO: -0.23354 Ha
+  LUMO: -0.03078 Ha
+  GAP:  5.51738 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO   CHO     F     H
+  CH3       0     1     3     2     1     2
+CHCH2       1     0     2     1     2     3
+  CHO       3     2     0     1     2     1
+  CHO       2     1     1     0     3     2
+    F       1     2     2     3     0     1
+    H       2     3     1     2     1     0
+
+ÉTAPE 251
+--------------------------------------------------------------------------------
+Substituants: ['F', 'F', 'CHO', 'CH3', 'NO2', 'F']
+Positions: 1=F, 2=F, 3=CHO, 4=CH3, 5=NO2, 6=F
+
+Énergies:
+  HOMO: -0.18720 Ha
+  LUMO: 0.01255 Ha
+  GAP:  5.43548 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO     F     F     F   NO2
+CH3       0     1     3     2     2     1
+CHO       1     0     2     1     3     2
+  F       3     2     0     1     1     2
+  F       2     1     1     0     2     3
+  F       2     3     1     2     0     1
+NO2       1     2     2     3     1     0
+
+ÉTAPE 252
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'CHO', 'CHCH2', 'CHCH2', 'CH3', 'F']
+Positions: 1=CN, 2=CHO, 3=CHCH2, 4=CHCH2, 5=CH3, 6=F
+
+Énergies:
+  HOMO: -0.28383 Ha
+  LUMO: -0.09861 Ha
+  GAP:  5.04010 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2 CHCH2   CHO    CN     F
+  CH3       0     2     1     3     2     1
+CHCH2       2     0     1     1     2     3
+CHCH2       1     1     0     2     3     2
+  CHO       3     1     2     0     1     2
+   CN       2     2     3     1     0     1
+    F       1     3     2     2     1     0
+
+ÉTAPE 253
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'NH2', 'CHO', 'NO2', 'F', 'CN']
+Positions: 1=NH2, 2=NH2, 3=CHO, 4=NO2, 5=F, 6=CN
+
+Énergies:
+  HOMO: -0.28357 Ha
+  LUMO: -0.10943 Ha
+  GAP:  4.73859 eV
+
+Matrice des distances entre substituants:
+        CHO    CN     F   NH2   NH2   NO2
+CHO       0     3     2     2     1     1
+ CN       3     0     1     1     2     2
+  F       2     1     0     2     3     1
+NH2       2     1     2     0     1     3
+NH2       1     2     3     1     0     2
+NO2       1     2     1     3     2     0
+
+ÉTAPE 254
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CHO', 'CN', 'NH2', 'CHCH2', 'CHO']
+Positions: 1=F, 2=CHO, 3=CN, 4=NH2, 5=CHCH2, 6=CHO
+
+Énergies:
+  HOMO: -0.24086 Ha
+  LUMO: -0.06009 Ha
+  GAP:  4.91900 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO   CHO    CN     F   NH2
+CHCH2       0     3     1     2     2     1
+  CHO       3     0     2     1     1     2
+  CHO       1     2     0     3     1     2
+   CN       2     1     3     0     2     1
+    F       2     1     1     2     0     3
+  NH2       1     2     2     1     3     0
+
+ÉTAPE 255
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'CHCH2', 'OH', 'CHO', 'NH2', 'CHO']
+Positions: 1=NO2, 2=CHCH2, 3=OH, 4=CHO, 5=NH2, 6=CHO
+
+Énergies:
+  HOMO: -0.26310 Ha
+  LUMO: -0.07366 Ha
+  GAP:  5.15493 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO   CHO   NH2   NO2    OH
+CHCH2       0     2     2     3     1     1
+  CHO       2     0     2     1     3     1
+  CHO       2     2     0     1     1     3
+  NH2       3     1     1     0     2     2
+  NO2       1     3     1     2     0     2
+   OH       1     1     3     2     2     0
+
+ÉTAPE 256
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'NO2', 'OH', 'CHO', 'NO2', 'NO2']
+Positions: 1=OH, 2=NO2, 3=OH, 4=CHO, 5=NO2, 6=NO2
+
+Énergies:
+  HOMO: -0.18619 Ha
+  LUMO: 0.01075 Ha
+  GAP:  5.35901 eV
+
+Matrice des distances entre substituants:
+        CHO   NO2   NO2   NO2    OH    OH
+CHO       0     2     1     2     3     1
+NO2       2     0     3     2     1     1
+NO2       1     3     0     1     2     2
+NO2       2     2     1     0     1     3
+ OH       3     1     2     1     0     2
+ OH       1     1     2     3     2     0
+
+ÉTAPE 257
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'CHO', 'CH3', 'H', 'H', 'H']
+Positions: 1=NO2, 2=CHO, 3=CH3, 4=H, 5=H, 6=H
+
+Énergies:
+  HOMO: -0.23600 Ha
+  LUMO: -0.05537 Ha
+  GAP:  4.91520 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO     H     H     H   NO2
+CH3       0     1     1     2     3     2
+CHO       1     0     2     3     2     1
+  H       1     2     0     1     2     3
+  H       2     3     1     0     1     2
+  H       3     2     2     1     0     1
+NO2       2     1     3     2     1     0
+
+ÉTAPE 258
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'NH2', 'CHO', 'CN', 'CN', 'CN']
+Positions: 1=NH2, 2=NH2, 3=CHO, 4=CN, 5=CN, 6=CN
+
+Énergies:
+  HOMO: -0.26165 Ha
+  LUMO: -0.12103 Ha
+  GAP:  3.82647 eV
+
+Matrice des distances entre substituants:
+        CHO    CN    CN    CN   NH2   NH2
+CHO       0     1     2     3     2     1
+ CN       1     0     1     2     3     2
+ CN       2     1     0     1     2     3
+ CN       3     2     1     0     1     2
+NH2       2     3     2     1     0     1
+NH2       1     2     3     2     1     0
+
+ÉTAPE 259
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CHO', 'H', 'NH2', 'CHCH2', 'CHCH2']
+Positions: 1=CHO, 2=CHO, 3=H, 4=NH2, 5=CHCH2, 6=CHCH2
+
+Énergies:
+  HOMO: -0.23543 Ha
+  LUMO: -0.07802 Ha
+  GAP:  4.28335 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   CHO   CHO     H   NH2
+CHCH2       0     1     2     3     2     1
+CHCH2       1     0     1     2     3     2
+  CHO       2     1     0     1     2     3
+  CHO       3     2     1     0     1     2
+    H       2     3     2     1     0     1
+  NH2       1     2     3     2     1     0
+
+ÉTAPE 260
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'CH3', 'NO2', 'NH2', 'F', 'CH3']
+Positions: 1=NH2, 2=CH3, 3=NO2, 4=NH2, 5=F, 6=CH3
+
+Énergies:
+  HOMO: -0.17605 Ha
+  LUMO: 0.02982 Ha
+  GAP:  5.60201 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3     F   NH2   NH2   NO2
+CH3       0     2     3     1     2     1
+CH3       2     0     1     1     2     3
+  F       3     1     0     2     1     2
+NH2       1     1     2     0     3     2
+NH2       2     2     1     3     0     1
+NO2       1     3     2     2     1     0
+
+ÉTAPE 261
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'OH', 'CN', 'NO2', 'NO2', 'H']
+Positions: 1=NO2, 2=OH, 3=CN, 4=NO2, 5=NO2, 6=H
+
+Énergies:
+  HOMO: -0.23344 Ha
+  LUMO: -0.05265 Ha
+  GAP:  4.91955 eV
+
+Matrice des distances entre substituants:
+         CN     H   NO2   NO2   NO2    OH
+ CN       0     3     2     1     2     1
+  H       3     0     1     2     1     2
+NO2       2     1     0     3     2     1
+NO2       1     2     3     0     1     2
+NO2       2     1     2     1     0     3
+ OH       1     2     1     2     3     0
+
+ÉTAPE 262
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'H', 'H', 'CN', 'NO2', 'CH3']
+Positions: 1=OH, 2=H, 3=H, 4=CN, 5=NO2, 6=CH3
+
+Énergies:
+  HOMO: -0.25058 Ha
+  LUMO: -0.06866 Ha
+  GAP:  4.95030 eV
+
+Matrice des distances entre substituants:
+        CH3    CN     H     H   NO2    OH
+CH3       0     2     2     3     1     1
+ CN       2     0     2     1     1     3
+  H       2     2     0     1     3     1
+  H       3     1     1     0     2     2
+NO2       1     1     3     2     0     2
+ OH       1     3     1     2     2     0
+
+ÉTAPE 263
+--------------------------------------------------------------------------------
+Substituants: ['H', 'H', 'H', 'CN', 'CHCH2', 'H']
+Positions: 1=H, 2=H, 3=H, 4=CN, 5=CHCH2, 6=H
+
+Énergies:
+  HOMO: -0.23462 Ha
+  LUMO: -0.05222 Ha
+  GAP:  4.96336 eV
+
+Matrice des distances entre substituants:
+        CHCH2    CN     H     H     H     H
+CHCH2       0     1     2     3     2     1
+   CN       1     0     3     2     1     2
+    H       2     3     0     1     2     1
+    H       3     2     1     0     1     2
+    H       2     1     2     1     0     3
+    H       1     2     1     2     3     0
+
+ÉTAPE 264
+--------------------------------------------------------------------------------
+Substituants: ['F', 'F', 'CH3', 'NO2', 'CHCH2', 'CN']
+Positions: 1=F, 2=F, 3=CH3, 4=NO2, 5=CHCH2, 6=CN
+
+Énergies:
+  HOMO: -0.27586 Ha
+  LUMO: -0.11966 Ha
+  GAP:  4.25042 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2    CN     F     F   NO2
+  CH3       0     2     3     2     1     1
+CHCH2       2     0     1     2     3     1
+   CN       3     1     0     1     2     2
+    F       2     2     1     0     1     3
+    F       1     3     2     1     0     2
+  NO2       1     1     2     3     2     0
+
+ÉTAPE 265
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'CHCH2', 'CH3', 'CHCH2', 'NH2', 'F']
+Positions: 1=CN, 2=CHCH2, 3=CH3, 4=CHCH2, 5=NH2, 6=F
+
+Énergies:
+  HOMO: -0.24321 Ha
+  LUMO: -0.10288 Ha
+  GAP:  3.81858 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2 CHCH2    CN     F   NH2
+  CH3       0     1     1     2     3     2
+CHCH2       1     0     2     1     2     3
+CHCH2       1     2     0     3     2     1
+   CN       2     1     3     0     1     2
+    F       3     2     2     1     0     1
+  NH2       2     3     1     2     1     0
+
+ÉTAPE 266
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'CH3', 'NH2', 'CH3', 'F', 'NO2']
+Positions: 1=CHCH2, 2=CH3, 3=NH2, 4=CH3, 5=F, 6=NO2
+
+Énergies:
+  HOMO: -0.25244 Ha
+  LUMO: -0.10951 Ha
+  GAP:  3.88933 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2     F   NH2   NO2
+  CH3       0     2     1     3     1     2
+  CH3       2     0     3     1     1     2
+CHCH2       1     3     0     2     2     1
+    F       3     1     2     0     2     1
+  NH2       1     1     2     2     0     3
+  NO2       2     2     1     1     3     0
+
+ÉTAPE 267
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'F', 'NH2', 'CHCH2', 'OH', 'F']
+Positions: 1=NH2, 2=F, 3=NH2, 4=CHCH2, 5=OH, 6=F
+
+Énergies:
+  HOMO: -0.22786 Ha
+  LUMO: -0.10400 Ha
+  GAP:  3.37040 eV
+
+Matrice des distances entre substituants:
+        CHCH2     F     F   NH2   NH2    OH
+CHCH2       0     2     2     3     1     1
+    F       2     0     2     1     1     3
+    F       2     2     0     1     3     1
+  NH2       3     1     1     0     2     2
+  NH2       1     1     3     2     0     2
+   OH       1     3     1     2     2     0
+
+ÉTAPE 268
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'F', 'CHO', 'F', 'CHCH2', 'OH']
+Positions: 1=CN, 2=F, 3=CHO, 4=F, 5=CHCH2, 6=OH
+
+Énergies:
+  HOMO: -0.27427 Ha
+  LUMO: -0.10684 Ha
+  GAP:  4.55600 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO    CN     F     F    OH
+CHCH2       0     2     2     3     1     1
+  CHO       2     0     2     1     1     3
+   CN       2     2     0     1     3     1
+    F       3     1     1     0     2     2
+    F       1     1     3     2     0     2
+   OH       1     3     1     2     2     0
+
+ÉTAPE 269
+--------------------------------------------------------------------------------
+Substituants: ['H', 'CHO', 'CHO', 'H', 'CHO', 'CH3']
+Positions: 1=H, 2=CHO, 3=CHO, 4=H, 5=CHO, 6=CH3
+
+Énergies:
+  HOMO: -0.25136 Ha
+  LUMO: -0.09215 Ha
+  GAP:  4.33233 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO   CHO   CHO     H     H
+CH3       0     2     3     1     1     2
+CHO       2     0     1     3     1     2
+CHO       3     1     0     2     2     1
+CHO       1     3     2     0     2     1
+  H       1     1     2     2     0     3
+  H       2     2     1     1     3     0
+
+ÉTAPE 270
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'OH', 'CH3', 'F', 'CHCH2', 'NH2']
+Positions: 1=NH2, 2=OH, 3=CH3, 4=F, 5=CHCH2, 6=NH2
+
+Énergies:
+  HOMO: -0.26206 Ha
+  LUMO: -0.09913 Ha
+  GAP:  4.43355 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2     F   NH2   NH2    OH
+  CH3       0     2     1     2     3     1
+CHCH2       2     0     1     2     1     3
+    F       1     1     0     3     2     2
+  NH2       2     2     3     0     1     1
+  NH2       3     1     2     1     0     2
+   OH       1     3     2     1     2     0
+
+ÉTAPE 271
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'OH', 'OH', 'CH3', 'OH', 'OH']
+Positions: 1=OH, 2=OH, 3=OH, 4=CH3, 5=OH, 6=OH
+
+Énergies:
+  HOMO: -0.28442 Ha
+  LUMO: -0.09034 Ha
+  GAP:  5.28119 eV
+
+Matrice des distances entre substituants:
+        CH3    OH    OH    OH    OH    OH
+CH3       0     3     2     1     1     2
+ OH       3     0     1     2     2     1
+ OH       2     1     0     1     3     2
+ OH       1     2     1     0     2     3
+ OH       1     2     3     2     0     1
+ OH       2     1     2     3     1     0
+
+ÉTAPE 272
+--------------------------------------------------------------------------------
+Substituants: ['H', 'OH', 'CN', 'NO2', 'NO2', 'OH']
+Positions: 1=H, 2=OH, 3=CN, 4=NO2, 5=NO2, 6=OH
+
+Énergies:
+  HOMO: -0.24599 Ha
+  LUMO: -0.12107 Ha
+  GAP:  3.39925 eV
+
+Matrice des distances entre substituants:
+         CN     H   NO2   NO2    OH    OH
+ CN       0     2     1     2     1     3
+  H       2     0     3     2     1     1
+NO2       1     3     0     1     2     2
+NO2       2     2     1     0     3     1
+ OH       1     1     2     3     0     2
+ OH       3     1     2     1     2     0
+
+ÉTAPE 273
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CN', 'CN', 'H', 'OH', 'CN']
+Positions: 1=F, 2=CN, 3=CN, 4=H, 5=OH, 6=CN
+
+Énergies:
+  HOMO: -0.18502 Ha
+  LUMO: -0.00587 Ha
+  GAP:  4.87492 eV
+
+Matrice des distances entre substituants:
+        CN    CN    CN     F     H    OH
+CN       0     1     2     1     2     3
+CN       1     0     3     2     1     2
+CN       2     3     0     1     2     1
+ F       1     2     1     0     3     2
+ H       2     1     2     3     0     1
+OH       3     2     1     2     1     0
+
+ÉTAPE 274
+--------------------------------------------------------------------------------
+Substituants: ['H', 'CN', 'CHO', 'CHCH2', 'CHCH2', 'OH']
+Positions: 1=H, 2=CN, 3=CHO, 4=CHCH2, 5=CHCH2, 6=OH
+
+Énergies:
+  HOMO: -0.23041 Ha
+  LUMO: 0.00784 Ha
+  GAP:  6.48312 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   CHO    CN     H    OH
+CHCH2       0     1     1     2     3     2
+CHCH2       1     0     2     3     2     1
+  CHO       1     2     0     1     2     3
+   CN       2     3     1     0     1     2
+    H       3     2     2     1     0     1
+   OH       2     1     3     2     1     0
+
+ÉTAPE 275
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'OH', 'OH', 'CH3', 'NO2', 'NH2']
+Positions: 1=NO2, 2=OH, 3=OH, 4=CH3, 5=NO2, 6=NH2
+
+Énergies:
+  HOMO: -0.22988 Ha
+  LUMO: -0.03592 Ha
+  GAP:  5.27792 eV
+
+Matrice des distances entre substituants:
+        CH3   NH2   NO2   NO2    OH    OH
+CH3       0     2     3     1     2     1
+NH2       2     0     1     1     2     3
+NO2       3     1     0     2     1     2
+NO2       1     1     2     0     3     2
+ OH       2     2     1     3     0     1
+ OH       1     3     2     2     1     0
+
+ÉTAPE 276
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'CN', 'CN', 'F', 'NO2', 'F']
+Positions: 1=CHCH2, 2=CN, 3=CN, 4=F, 5=NO2, 6=F
+
+Énergies:
+  HOMO: -0.24625 Ha
+  LUMO: -0.11203 Ha
+  GAP:  3.65231 eV
+
+Matrice des distances entre substituants:
+        CHCH2    CN    CN     F     F   NO2
+CHCH2       0     1     2     3     1     2
+   CN       1     0     1     2     2     3
+   CN       2     1     0     1     3     2
+    F       3     2     1     0     2     1
+    F       1     2     3     2     0     1
+  NO2       2     3     2     1     1     0
+
+ÉTAPE 277
+--------------------------------------------------------------------------------
+Substituants: ['F', 'CHCH2', 'H', 'CN', 'NH2', 'CHO']
+Positions: 1=F, 2=CHCH2, 3=H, 4=CN, 5=NH2, 6=CHO
+
+Énergies:
+  HOMO: -0.22713 Ha
+  LUMO: -0.07594 Ha
+  GAP:  4.11409 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO    CN     F     H   NH2
+CHCH2       0     2     2     1     1     3
+  CHO       2     0     2     1     3     1
+   CN       2     2     0     3     1     1
+    F       1     1     3     0     2     2
+    H       1     3     1     2     0     2
+  NH2       3     1     1     2     2     0
+
+ÉTAPE 278
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'NH2', 'CHCH2', 'CH3', 'NO2', 'NH2']
+Positions: 1=CN, 2=NH2, 3=CHCH2, 4=CH3, 5=NO2, 6=NH2
+
+Énergies:
+  HOMO: -0.20457 Ha
+  LUMO: -0.04759 Ha
+  GAP:  4.27165 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2    CN   NH2   NH2   NO2
+  CH3       0     1     3     2     2     1
+CHCH2       1     0     2     1     3     2
+   CN       3     2     0     1     1     2
+  NH2       2     1     1     0     2     3
+  NH2       2     3     1     2     0     1
+  NO2       1     2     2     3     1     0
+
+ÉTAPE 279
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CHCH2', 'F', 'F', 'NH2', 'F']
+Positions: 1=CHO, 2=CHCH2, 3=F, 4=F, 5=NH2, 6=F
+
+Énergies:
+  HOMO: -0.24600 Ha
+  LUMO: -0.09082 Ha
+  GAP:  4.22267 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO     F     F     F   NH2
+CHCH2       0     1     1     2     2     3
+  CHO       1     0     2     3     1     2
+    F       1     2     0     1     3     2
+    F       2     3     1     0     2     1
+    F       2     1     3     2     0     1
+  NH2       3     2     2     1     1     0
+
+ÉTAPE 280
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'OH', 'NH2', 'CHCH2', 'OH', 'F']
+Positions: 1=CH3, 2=OH, 3=NH2, 4=CHCH2, 5=OH, 6=F
+
+Énergies:
+  HOMO: -0.24726 Ha
+  LUMO: -0.07929 Ha
+  GAP:  4.57070 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2     F   NH2    OH    OH
+  CH3       0     3     1     2     1     2
+CHCH2       3     0     2     1     2     1
+    F       1     2     0     3     2     1
+  NH2       2     1     3     0     1     2
+   OH       1     2     2     1     0     3
+   OH       2     1     1     2     3     0
+
+ÉTAPE 281
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'NO2', 'CHO', 'H', 'F', 'CHCH2']
+Positions: 1=CHCH2, 2=NO2, 3=CHO, 4=H, 5=F, 6=CHCH2
+
+Énergies:
+  HOMO: -0.25324 Ha
+  LUMO: -0.06918 Ha
+  GAP:  5.00853 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2   CHO     F     H   NO2
+CHCH2       0     1     2     2     3     1
+CHCH2       1     0     3     1     2     2
+  CHO       2     3     0     2     1     1
+    F       2     1     2     0     1     3
+    H       3     2     1     1     0     2
+  NO2       1     2     1     3     2     0
+
+ÉTAPE 282
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'CH3', 'NO2', 'NO2', 'CH3', 'OH']
+Positions: 1=CHCH2, 2=CH3, 3=NO2, 4=NO2, 5=CH3, 6=OH
+
+Énergies:
+  HOMO: -0.25236 Ha
+  LUMO: -0.10271 Ha
+  GAP:  4.07219 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2   NO2   NO2    OH
+  CH3       0     3     1     1     2     2
+  CH3       3     0     2     2     1     1
+CHCH2       1     2     0     2     3     1
+  NO2       1     2     2     0     1     3
+  NO2       2     1     3     1     0     2
+   OH       2     1     1     3     2     0
+
+ÉTAPE 283
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'OH', 'OH', 'CN', 'OH', 'CH3']
+Positions: 1=CN, 2=OH, 3=OH, 4=CN, 5=OH, 6=CH3
+
+Énergies:
+  HOMO: -0.23662 Ha
+  LUMO: -0.09904 Ha
+  GAP:  3.74374 eV
+
+Matrice des distances entre substituants:
+        CH3    CN    CN    OH    OH    OH
+CH3       0     1     2     2     3     1
+ CN       1     0     3     1     2     2
+ CN       2     3     0     2     1     1
+ OH       2     1     2     0     1     3
+ OH       3     2     1     1     0     2
+ OH       1     2     1     3     2     0
+
+ÉTAPE 284
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'F', 'NO2', 'CHCH2', 'F', 'H']
+Positions: 1=NO2, 2=F, 3=NO2, 4=CHCH2, 5=F, 6=H
+
+Énergies:
+  HOMO: -0.16258 Ha
+  LUMO: 0.02839 Ha
+  GAP:  5.19656 eV
+
+Matrice des distances entre substituants:
+        CHCH2     F     F     H   NO2   NO2
+CHCH2       0     2     1     2     3     1
+    F       2     0     3     2     1     1
+    F       1     3     0     1     2     2
+    H       2     2     1     0     1     3
+  NO2       3     1     2     1     0     2
+  NO2       1     1     2     3     2     0
+
+ÉTAPE 285
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'CN', 'OH', 'CN', 'NO2', 'F']
+Positions: 1=CH3, 2=CN, 3=OH, 4=CN, 5=NO2, 6=F
+
+Énergies:
+  HOMO: -0.24276 Ha
+  LUMO: -0.09345 Ha
+  GAP:  4.06293 eV
+
+Matrice des distances entre substituants:
+        CH3    CN    CN     F   NO2    OH
+CH3       0     1     3     1     2     2
+ CN       1     0     2     2     3     1
+ CN       3     2     0     2     1     1
+  F       1     2     2     0     1     3
+NO2       2     3     1     1     0     2
+ OH       2     1     1     3     2     0
+
+ÉTAPE 286
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'NO2', 'CN', 'NO2', 'NH2', 'CHO']
+Positions: 1=CN, 2=NO2, 3=CN, 4=NO2, 5=NH2, 6=CHO
+
+Énergies:
+  HOMO: -0.23116 Ha
+  LUMO: -0.05280 Ha
+  GAP:  4.85343 eV
+
+Matrice des distances entre substituants:
+        CHO    CN    CN   NH2   NO2   NO2
+CHO       0     1     3     1     2     2
+ CN       1     0     2     2     1     3
+ CN       3     2     0     2     1     1
+NH2       1     2     2     0     3     1
+NO2       2     1     1     3     0     2
+NO2       2     3     1     1     2     0
+
+ÉTAPE 287
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'NO2', 'CN', 'CH3', 'CHCH2', 'NO2']
+Positions: 1=CH3, 2=NO2, 3=CN, 4=CH3, 5=CHCH2, 6=NO2
+
+Énergies:
+  HOMO: -0.25214 Ha
+  LUMO: -0.09743 Ha
+  GAP:  4.20988 eV
+
+Matrice des distances entre substituants:
+          CH3   CH3 CHCH2    CN   NO2   NO2
+  CH3       0     3     2     2     1     1
+  CH3       3     0     1     1     2     2
+CHCH2       2     1     0     2     3     1
+   CN       2     1     2     0     1     3
+  NO2       1     2     3     1     0     2
+  NO2       1     2     1     3     2     0
+
+ÉTAPE 288
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'H', 'NO2', 'CN', 'OH', 'CHO']
+Positions: 1=NH2, 2=H, 3=NO2, 4=CN, 5=OH, 6=CHO
+
+Énergies:
+  HOMO: -0.26012 Ha
+  LUMO: -0.10976 Ha
+  GAP:  4.09151 eV
+
+Matrice des distances entre substituants:
+        CHO    CN     H   NH2   NO2    OH
+CHO       0     2     2     1     3     1
+ CN       2     0     2     3     1     1
+  H       2     2     0     1     1     3
+NH2       1     3     1     0     2     2
+NO2       3     1     1     2     0     2
+ OH       1     1     3     2     2     0
+
+ÉTAPE 289
+--------------------------------------------------------------------------------
+Substituants: ['NO2', 'NO2', 'NH2', 'NH2', 'OH', 'NH2']
+Positions: 1=NO2, 2=NO2, 3=NH2, 4=NH2, 5=OH, 6=NH2
+
+Énergies:
+  HOMO: -0.24929 Ha
+  LUMO: -0.07278 Ha
+  GAP:  4.80308 eV
+
+Matrice des distances entre substituants:
+        NH2   NH2   NH2   NO2   NO2    OH
+NH2       0     1     3     2     1     2
+NH2       1     0     2     3     2     1
+NH2       3     2     0     1     2     1
+NO2       2     3     1     0     1     2
+NO2       1     2     2     1     0     3
+ OH       2     1     1     2     3     0
+
+ÉTAPE 290
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'OH', 'NO2', 'NH2', 'CHO', 'CHCH2']
+Positions: 1=CH3, 2=OH, 3=NO2, 4=NH2, 5=CHO, 6=CHCH2
+
+Énergies:
+  HOMO: -0.22324 Ha
+  LUMO: -0.03179 Ha
+  GAP:  5.20962 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO   NH2   NO2    OH
+  CH3       0     1     2     3     2     1
+CHCH2       1     0     1     2     3     2
+  CHO       2     1     0     1     2     3
+  NH2       3     2     1     0     1     2
+  NO2       2     3     2     1     0     1
+   OH       1     2     3     2     1     0
+
+ÉTAPE 291
+--------------------------------------------------------------------------------
+Substituants: ['H', 'H', 'NH2', 'CHO', 'OH', 'CH3']
+Positions: 1=H, 2=H, 3=NH2, 4=CHO, 5=OH, 6=CH3
+
+Énergies:
+  HOMO: -0.18577 Ha
+  LUMO: 0.02738 Ha
+  GAP:  5.80011 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO     H     H   NH2    OH
+CH3       0     2     1     2     3     1
+CHO       2     0     3     2     1     1
+  H       1     3     0     1     2     2
+  H       2     2     1     0     1     3
+NH2       3     1     2     1     0     2
+ OH       1     1     2     3     2     0
+
+ÉTAPE 292
+--------------------------------------------------------------------------------
+Substituants: ['NH2', 'NH2', 'CN', 'F', 'CHCH2', 'OH']
+Positions: 1=NH2, 2=NH2, 3=CN, 4=F, 5=CHCH2, 6=OH
+
+Énergies:
+  HOMO: -0.24933 Ha
+  LUMO: -0.05811 Ha
+  GAP:  5.20336 eV
+
+Matrice des distances entre substituants:
+        CHCH2    CN     F   NH2   NH2    OH
+CHCH2       0     2     1     2     3     1
+   CN       2     0     1     2     1     3
+    F       1     1     0     3     2     2
+  NH2       2     2     3     0     1     1
+  NH2       3     1     2     1     0     2
+   OH       1     3     2     1     2     0
+
+ÉTAPE 293
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'F', 'NH2', 'OH', 'CHO', 'OH']
+Positions: 1=CHCH2, 2=F, 3=NH2, 4=OH, 5=CHO, 6=OH
+
+Énergies:
+  HOMO: -0.24936 Ha
+  LUMO: -0.06902 Ha
+  GAP:  4.90730 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO     F   NH2    OH    OH
+CHCH2       0     2     1     2     3     1
+  CHO       2     0     3     2     1     1
+    F       1     3     0     1     2     2
+  NH2       2     2     1     0     1     3
+   OH       3     1     2     1     0     2
+   OH       1     1     2     3     2     0
+
+ÉTAPE 294
+--------------------------------------------------------------------------------
+Substituants: ['CH3', 'CHCH2', 'NH2', 'CN', 'CN', 'H']
+Positions: 1=CH3, 2=CHCH2, 3=NH2, 4=CN, 5=CN, 6=H
+
+Énergies:
+  HOMO: -0.23043 Ha
+  LUMO: -0.07858 Ha
+  GAP:  4.13205 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2    CN    CN     H   NH2
+  CH3       0     1     3     2     1     2
+CHCH2       1     0     2     3     2     1
+   CN       3     2     0     1     2     1
+   CN       2     3     1     0     1     2
+    H       1     2     2     1     0     3
+  NH2       2     1     1     2     3     0
+
+ÉTAPE 295
+--------------------------------------------------------------------------------
+Substituants: ['CN', 'CHO', 'CH3', 'OH', 'OH', 'CH3']
+Positions: 1=CN, 2=CHO, 3=CH3, 4=OH, 5=OH, 6=CH3
+
+Énergies:
+  HOMO: -0.23305 Ha
+  LUMO: -0.07579 Ha
+  GAP:  4.27926 eV
+
+Matrice des distances entre substituants:
+        CH3   CH3   CHO    CN    OH    OH
+CH3       0     3     1     2     1     2
+CH3       3     0     2     1     2     1
+CHO       1     2     0     1     2     3
+ CN       2     1     1     0     3     2
+ OH       1     2     2     3     0     1
+ OH       2     1     3     2     1     0
+
+ÉTAPE 296
+--------------------------------------------------------------------------------
+Substituants: ['CHO', 'CHO', 'NO2', 'OH', 'CHO', 'CH3']
+Positions: 1=CHO, 2=CHO, 3=NO2, 4=OH, 5=CHO, 6=CH3
+
+Énergies:
+  HOMO: -0.23970 Ha
+  LUMO: -0.06763 Ha
+  GAP:  4.68227 eV
+
+Matrice des distances entre substituants:
+        CH3   CHO   CHO   CHO   NO2    OH
+CH3       0     1     2     1     3     2
+CHO       1     0     1     2     2     3
+CHO       2     1     0     3     1     2
+CHO       1     2     3     0     2     1
+NO2       3     2     1     2     0     1
+ OH       2     3     2     1     1     0
+
+ÉTAPE 297
+--------------------------------------------------------------------------------
+Substituants: ['F', 'OH', 'F', 'NH2', 'H', 'NH2']
+Positions: 1=F, 2=OH, 3=F, 4=NH2, 5=H, 6=NH2
+
+Énergies:
+  HOMO: -0.27143 Ha
+  LUMO: -0.12116 Ha
+  GAP:  4.08906 eV
+
+Matrice des distances entre substituants:
+          F     F     H   NH2   NH2    OH
+  F       0     2     2     3     1     1
+  F       2     0     2     1     3     1
+  H       2     2     0     1     1     3
+NH2       3     1     1     0     2     2
+NH2       1     3     1     2     0     2
+ OH       1     1     3     2     2     0
+
+ÉTAPE 298
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'CHCH2', 'F', 'CHCH2', 'CHO', 'CN']
+Positions: 1=CHCH2, 2=CHCH2, 3=F, 4=CHCH2, 5=CHO, 6=CN
+
+Énergies:
+  HOMO: -0.25154 Ha
+  LUMO: -0.11032 Ha
+  GAP:  3.84279 eV
+
+Matrice des distances entre substituants:
+        CHCH2 CHCH2 CHCH2   CHO    CN     F
+CHCH2       0     1     3     2     1     2
+CHCH2       1     0     2     3     2     1
+CHCH2       3     2     0     1     2     1
+  CHO       2     3     1     0     1     2
+   CN       1     2     2     1     0     3
+    F       2     1     1     2     3     0
+
+ÉTAPE 299
+--------------------------------------------------------------------------------
+Substituants: ['CHCH2', 'OH', 'CHO', 'NH2', 'H', 'F']
+Positions: 1=CHCH2, 2=OH, 3=CHO, 4=NH2, 5=H, 6=F
+
+Énergies:
+  HOMO: -0.21395 Ha
+  LUMO: -0.07764 Ha
+  GAP:  3.70919 eV
+
+Matrice des distances entre substituants:
+        CHCH2   CHO     F     H   NH2    OH
+CHCH2       0     2     1     2     3     1
+  CHO       2     0     3     2     1     1
+    F       1     3     0     1     2     2
+    H       2     2     1     0     1     3
+  NH2       3     1     2     1     0     2
+   OH       1     1     2     3     2     0
+
+ÉTAPE 300
+--------------------------------------------------------------------------------
+Substituants: ['OH', 'NH2', 'CHCH2', 'NO2', 'CH3', 'CHO']
+Positions: 1=OH, 2=NH2, 3=CHCH2, 4=NO2, 5=CH3, 6=CHO
+
+Énergies:
+  HOMO: -0.22112 Ha
+  LUMO: -0.05566 Ha
+  GAP:  4.50240 eV
+
+Matrice des distances entre substituants:
+          CH3 CHCH2   CHO   NH2   NO2    OH
+  CH3       0     2     1     3     1     2
+CHCH2       2     0     3     1     1     2
+  CHO       1     3     0     2     2     1
+  NH2       3     1     2     0     2     1
+  NO2       1     1     2     2     0     3
+   OH       2     2     1     1     3     0
+
+================================================================================
+FIN DE LA MARCHE ALÉATOIRE COMPLETE
+================================================================================
