@@ -1,7 +1,8 @@
-benzen_sorter
-the first code of benzen_sorter creat the fill that will be read to creat the random walk
-in benzen_sorter differant code existe they are editable to decide what random walk we need
-the 3 last code can give data about the random walk lastly created
+The first code of benzen_sorter creates the fill that will be read to create the random walk.
 
-if you want to gather data from differant experiment you can plot the ennergy data with Ennergy_ploter and you can get landscape related data from Autocorelation_ploter
-‼️ if you want the tow last code to work name you differant experiment n°1 n°2 ...
+In benzen_sorter different code exists; they are editable to decide what random walk we need.
+
+The 3 last codes can give data about the random walk last created.
+
+If you want to gather data from different experiments, you can plot the energy data with Energy_plotter and you can get landscape-related data from Autocorrelation_plotter.
+‼️ If you want the two last codes to work, name your different experiment n°1 n°2 ...
