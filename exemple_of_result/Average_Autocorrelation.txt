@@ -1,3 +1,6 @@
+######################################################################
+⚠️Result from experiment 3 not originally specified in the program⚠️
+######################################################################
 ======================================================================
 AVERAGE AUTOCORRELATION ANALYSIS
 Correlation length formula: Lc = -1/ln(C(1))
