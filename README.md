@@ -1,7 +1,25 @@
-benzen_sorter
-the first code of benzen_sorter creat the fill that will be read to creat the random walk
-in benzen_sorter differant code existe they are editable to decide what random walk we need
-the 3 last code can give data about the random walk lastly created
+Data Organization:
+  A main folder for each experiment is created
+  The main folder contains multiple subfolders named n°1, n°2, …
+  Each subfolder contains a file named marche_aleatoire.txt (random walk data).
+Random Walk Generation is done with Benzen_Sorter.ipynb
 
-if you want to gather data from differant experiment you can plot the ennergy data with Ennergy_ploter and you can get landscape related data from Autocorelation_ploter
-‼️ if you want the tow last code to work name you differant experiment n°1 n°2 ...
+Benzen_Sorter.ipynb contains three types of programs:
+  Preprocessing Program
+    Reads molecule_energies.txt
+    Generates a formatted file compatible with the rest of the workflow: analyse_matrices.json
+  Random Walk Generators (four types):
+    Type 1: Randomly selects molecules from molecule_energies.txt
+    Type 2: Each step changes only one substituent from analyse_matrices.json
+    Type 3: Type 2 + substituent change with rules specifying which substituents can change into which from analyse_matrices.json
+    Type 4: type 3 + constraints on substituent positions relative to others from analyse_matrices.json. this code has not been used in the report    
+  Single Experiment Data Collector
+    Generates data from a single experiment
+    Possibility to plot only a part of the data with molecules for each step
+
+
+Multiple Experiment Data Collector : These codes should be executed from the folder containing the subfolders  n°1, n°2, … to properly read marche_aleatoire.txt.
+
+  Autocorrelation_ploter.ipynb: Used to analyze autocorrelation in the random walk data.
+  Energy_ploter.ipynb: Used to plot the energy values of the random walks.
+  
